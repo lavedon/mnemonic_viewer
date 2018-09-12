@@ -1,0 +1,14 @@
+>>>>Scale Images with window resize
+
+Make buttons flip through images
+    if list out of bounds don't load.
+
+Make text boxes
+Make text boxes appear/reappear with button presses
+
+Module to read google sheets
+Move to github
+
+*Select button opens new folder
+* Start button change image fills entire screen or study widgets
+
