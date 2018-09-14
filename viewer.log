@@ -1,231 +1,866 @@
-DEBUG:2018-09-12 05:18:15,149 class Data called.
-INFO:2018-09-12 05:18:25,746 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-12 05:18:26,653 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-12 05:18:26,949 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-12 05:18:27,027 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-12 05:18:27,402 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-12 05:18:27,463 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-12 05:18:27,510 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-12 05:18:27,682 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-12 05:18:27,870 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-12 05:18:28,105 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-12 05:18:28,261 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-12 05:18:28,511 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-12 05:18:28,652 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-12 05:18:28,777 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-12 05:18:28,933 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-12 05:18:29,105 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-12 05:18:29,231 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-12 05:18:29,434 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-12 05:18:29,544 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-12 05:18:29,669 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-12 05:18:29,794 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-12 05:18:29,921 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-12 05:18:30,043 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-12 05:18:30,268 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-12 05:18:30,405 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-12 05:18:30,558 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-12 05:18:30,856 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-12 05:18:30,950 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-12 05:18:31,090 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-12 05:18:31,285 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-12 05:18:31,395 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-12 05:18:31,504 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-12 05:18:31,645 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-12 05:18:31,957 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-12 05:18:32,199 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-12 05:18:32,417 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-12 05:18:32,621 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-12 05:18:32,746 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-12 05:18:32,792 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-12 05:18:32,989 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-12 05:18:33,130 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-12 05:18:33,379 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-12 05:18:33,591 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-12 05:18:33,888 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-12 05:18:34,127 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-12 05:18:34,214 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-12 05:18:34,605 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-12 05:18:34,855 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-12 05:18:35,086 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-12 05:18:35,278 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-12 05:18:35,371 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-12 05:18:35,481 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-12 05:18:35,591 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-12 05:18:35,809 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-12 05:18:35,903 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-12 05:18:36,102 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-12 05:18:36,245 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-12 05:18:36,409 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-12 05:18:36,624 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-12 05:18:36,874 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-12 05:18:36,874 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-12 05:18:36,990 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-12 05:18:36,990 class App called
-INFO:2018-09-12 05:18:37,075 joystick initialized
-INFO:2018-09-12 05:18:37,075 pygame initialized
-INFO:2018-09-12 05:18:42,627 theViewer created.
-INFO:2018-09-12 05:18:42,627 <__main__.Viewer object at 0x000001C7A9512A90> 
-INFO:2018-09-12 05:18:47,935 Controller button 5 pressed
-INFO:2018-09-12 05:18:47,935 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:47,935 image count now set to 0.  There are 59 total images
-INFO:2018-09-12 05:18:49,110 Controller button 5 pressed
-INFO:2018-09-12 05:18:49,110 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:49,110 image count now set to 1.  There are 59 total images
-INFO:2018-09-12 05:18:49,719 Controller button 5 pressed
-INFO:2018-09-12 05:18:49,719 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:49,719 image count now set to 2.  There are 59 total images
-INFO:2018-09-12 05:18:51,482 Controller button 5 pressed
-INFO:2018-09-12 05:18:51,748 Controller button 5 pressed
-INFO:2018-09-12 05:18:52,051 Controller button 5 pressed
-INFO:2018-09-12 05:18:52,620 Controller button 5 pressed
-INFO:2018-09-12 05:18:53,151 Controller button 5 pressed
-INFO:2018-09-12 05:18:53,151 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:53,151 image count now set to 0.  There are 59 total images
-INFO:2018-09-12 05:18:53,568 Controller button 5 pressed
-INFO:2018-09-12 05:18:53,872 Controller button 5 pressed
-INFO:2018-09-12 05:18:54,289 Controller button 5 pressed
-INFO:2018-09-12 05:18:54,289 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:54,289 image count now set to 0.  There are 59 total images
-INFO:2018-09-12 05:18:54,633 Controller button 5 pressed
-INFO:2018-09-12 05:18:54,633 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:54,633 image count now set to 1.  There are 59 total images
-INFO:2018-09-12 05:18:54,899 Controller button 5 pressed
-INFO:2018-09-12 05:18:54,899 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:54,899 image count now set to 2.  There are 59 total images
-INFO:2018-09-12 05:18:55,089 Controller button 5 pressed
-INFO:2018-09-12 05:18:55,089 Controller button 6 pressed.
-DEBUG:2018-09-12 05:18:55,089 image count now set to 3.  There are 59 total images
-INFO:2018-09-12 05:18:57,022 Controller button 5 pressed
-INFO:2018-09-12 05:18:57,022 Controller select button
-INFO:2018-09-12 05:19:02,609 C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd folder selected
-INFO:2018-09-12 05:19:45,886 Controller button 5 pressed
-INFO:2018-09-12 05:19:45,886 Controller button 6 pressed.
-DEBUG:2018-09-12 05:19:45,886 image count now set to 4.  There are 59 total images
-INFO:2018-09-12 05:19:47,710 Controller button 5 pressed
-INFO:2018-09-12 05:19:48,053 Controller button 5 pressed
-INFO:2018-09-12 05:19:49,501 Controller button 5 pressed
-INFO:2018-09-12 05:19:49,501 Controller select button
-INFO:2018-09-12 05:19:52,484 C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd folder selected
-INFO:2018-09-12 05:19:54,186 Controller button 5 pressed
-INFO:2018-09-12 05:19:54,186 Controller button 6 pressed.
-DEBUG:2018-09-12 05:19:54,186 image count now set to 3.  There are 59 total images
-INFO:2018-09-12 05:19:54,489 Controller button 5 pressed
-INFO:2018-09-12 05:19:54,489 Controller button 6 pressed.
-DEBUG:2018-09-12 05:19:54,489 image count now set to 4.  There are 59 total images
-INFO:2018-09-12 05:19:54,718 Controller button 5 pressed
-INFO:2018-09-12 05:19:54,718 Controller button 6 pressed.
-DEBUG:2018-09-12 05:19:54,718 image count now set to 5.  There are 59 total images
-INFO:2018-09-12 05:19:54,945 Controller button 5 pressed
-INFO:2018-09-12 05:19:54,945 Controller button 6 pressed.
-DEBUG:2018-09-12 05:19:54,945 image count now set to 6.  There are 59 total images
-INFO:2018-09-12 05:20:17,885 Controller button 5 pressed
-INFO:2018-09-12 05:20:17,885 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:17,885 image count now set to 7.  There are 59 total images
-INFO:2018-09-12 05:20:18,114 Controller button 5 pressed
-INFO:2018-09-12 05:20:18,114 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:18,114 image count now set to 8.  There are 59 total images
-INFO:2018-09-12 05:20:18,342 Controller button 5 pressed
-INFO:2018-09-12 05:20:18,342 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:18,342 image count now set to 9.  There are 59 total images
-INFO:2018-09-12 05:20:18,493 Controller button 5 pressed
-INFO:2018-09-12 05:20:18,493 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:18,493 image count now set to 10.  There are 59 total images
-INFO:2018-09-12 05:20:18,722 Controller button 5 pressed
-INFO:2018-09-12 05:20:18,722 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:18,722 image count now set to 11.  There are 59 total images
-INFO:2018-09-12 05:20:18,911 Controller button 5 pressed
-INFO:2018-09-12 05:20:18,911 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:18,911 image count now set to 12.  There are 59 total images
-INFO:2018-09-12 05:20:19,139 Controller button 5 pressed
-INFO:2018-09-12 05:20:19,139 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:19,139 image count now set to 13.  There are 59 total images
-INFO:2018-09-12 05:20:19,327 Controller button 5 pressed
-INFO:2018-09-12 05:20:19,327 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:19,327 image count now set to 14.  There are 59 total images
-INFO:2018-09-12 05:20:19,783 Controller button 5 pressed
-INFO:2018-09-12 05:20:19,783 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:19,783 image count now set to 15.  There are 59 total images
-INFO:2018-09-12 05:20:20,621 Controller button 5 pressed
-INFO:2018-09-12 05:20:20,621 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:20,621 image count now set to 16.  There are 59 total images
-INFO:2018-09-12 05:20:21,801 Controller button 5 pressed
-INFO:2018-09-12 05:20:21,801 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:21,801 image count now set to 17.  There are 59 total images
-INFO:2018-09-12 05:20:22,143 Controller button 5 pressed
-INFO:2018-09-12 05:20:22,143 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:22,143 image count now set to 18.  There are 59 total images
-INFO:2018-09-12 05:20:22,407 Controller button 5 pressed
-INFO:2018-09-12 05:20:22,407 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:22,407 image count now set to 19.  There are 59 total images
-INFO:2018-09-12 05:20:22,674 Controller button 5 pressed
-INFO:2018-09-12 05:20:22,674 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:22,674 image count now set to 20.  There are 59 total images
-INFO:2018-09-12 05:20:22,976 Controller button 5 pressed
-INFO:2018-09-12 05:20:22,976 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:22,976 image count now set to 21.  There are 59 total images
-INFO:2018-09-12 05:20:23,203 Controller button 5 pressed
-INFO:2018-09-12 05:20:23,203 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:23,203 image count now set to 22.  There are 59 total images
-INFO:2018-09-12 05:20:23,432 Controller button 5 pressed
-INFO:2018-09-12 05:20:23,432 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:23,432 image count now set to 23.  There are 59 total images
-INFO:2018-09-12 05:20:23,621 Controller button 5 pressed
-INFO:2018-09-12 05:20:23,621 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:23,621 image count now set to 24.  There are 59 total images
-INFO:2018-09-12 05:20:23,848 Controller button 5 pressed
-INFO:2018-09-12 05:20:23,848 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:23,848 image count now set to 25.  There are 59 total images
-INFO:2018-09-12 05:20:24,038 Controller button 5 pressed
-INFO:2018-09-12 05:20:24,038 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:24,038 image count now set to 26.  There are 59 total images
-INFO:2018-09-12 05:20:24,228 Controller button 5 pressed
-INFO:2018-09-12 05:20:24,228 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:24,228 image count now set to 27.  There are 59 total images
-INFO:2018-09-12 05:20:24,455 Controller button 5 pressed
-INFO:2018-09-12 05:20:24,455 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:24,455 image count now set to 28.  There are 59 total images
-INFO:2018-09-12 05:20:24,645 Controller button 5 pressed
-INFO:2018-09-12 05:20:24,645 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:24,645 image count now set to 29.  There are 59 total images
-INFO:2018-09-12 05:20:24,873 Controller button 5 pressed
-INFO:2018-09-12 05:20:24,873 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:24,873 image count now set to 30.  There are 59 total images
-INFO:2018-09-12 05:20:25,102 Controller button 5 pressed
-INFO:2018-09-12 05:20:25,102 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:25,102 image count now set to 31.  There are 59 total images
-INFO:2018-09-12 05:20:25,291 Controller button 5 pressed
-INFO:2018-09-12 05:20:25,291 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:25,291 image count now set to 32.  There are 59 total images
-INFO:2018-09-12 05:20:25,517 Controller button 5 pressed
-INFO:2018-09-12 05:20:25,517 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:25,517 image count now set to 33.  There are 59 total images
-INFO:2018-09-12 05:20:25,744 Controller button 5 pressed
-INFO:2018-09-12 05:20:25,744 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:25,744 image count now set to 34.  There are 59 total images
-INFO:2018-09-12 05:20:25,934 Controller button 5 pressed
-INFO:2018-09-12 05:20:25,934 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:25,934 image count now set to 35.  There are 59 total images
-INFO:2018-09-12 05:20:26,163 Controller button 5 pressed
-INFO:2018-09-12 05:20:26,163 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:26,163 image count now set to 36.  There are 59 total images
-INFO:2018-09-12 05:20:26,696 Controller button 5 pressed
-INFO:2018-09-12 05:20:26,696 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:26,696 image count now set to 37.  There are 59 total images
-INFO:2018-09-12 05:20:26,963 Controller button 5 pressed
-INFO:2018-09-12 05:20:26,963 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:26,963 image count now set to 38.  There are 59 total images
-INFO:2018-09-12 05:20:27,308 Controller button 5 pressed
-INFO:2018-09-12 05:20:27,308 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:27,308 image count now set to 39.  There are 59 total images
-INFO:2018-09-12 05:20:27,765 Controller button 5 pressed
-INFO:2018-09-12 05:20:31,225 Controller button 5 pressed
-INFO:2018-09-12 05:20:33,317 Controller button 5 pressed
-INFO:2018-09-12 05:20:33,317 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:33,317 image count now set to 38.  There are 59 total images
-INFO:2018-09-12 05:20:33,582 Controller button 5 pressed
-INFO:2018-09-12 05:20:33,582 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:33,582 image count now set to 39.  There are 59 total images
-INFO:2018-09-12 05:20:33,885 Controller button 5 pressed
-INFO:2018-09-12 05:20:33,885 Controller button 6 pressed.
-DEBUG:2018-09-12 05:20:33,885 image count now set to 40.  There are 59 total images
+DEBUG:2018-09-12 06:10:34,067 class Data called.
+INFO:2018-09-12 06:12:07,109 C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd folder selected
+INFO:2018-09-12 06:12:07,370 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/1.png to self.image_list
+INFO:2018-09-12 06:12:07,781 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/2-4.png to self.image_list
+INFO:2018-09-12 06:12:07,960 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/5-7.png to self.image_list
+INFO:2018-09-12 06:12:08,053 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/7.png to self.image_list
+INFO:2018-09-12 06:12:08,186 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/8-10.png to self.image_list
+INFO:2018-09-12 06:12:08,355 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/8.png to self.image_list
+INFO:2018-09-12 06:12:08,502 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/9.png to self.image_list
+INFO:2018-09-12 06:12:08,631 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/10.png to self.image_list
+INFO:2018-09-12 06:12:08,889 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/11.png to self.image_list
+INFO:2018-09-12 06:12:09,113 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/11a.png to self.image_list
+INFO:2018-09-12 06:12:09,191 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/12.png to self.image_list
+INFO:2018-09-12 06:12:09,253 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/13.png to self.image_list
+INFO:2018-09-12 06:12:09,308 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/14.png to self.image_list
+INFO:2018-09-12 06:12:09,428 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/14a.png to self.image_list
+INFO:2018-09-12 06:12:09,541 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/15.png to self.image_list
+INFO:2018-09-12 06:12:09,701 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/16.png to self.image_list
+INFO:2018-09-12 06:12:09,885 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/17.png to self.image_list
+INFO:2018-09-12 06:12:10,044 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/18.png to self.image_list
+INFO:2018-09-12 06:12:10,313 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/19.png to self.image_list
+INFO:2018-09-12 06:12:10,561 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/20.png to self.image_list
+INFO:2018-09-12 06:12:10,738 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/21.png to self.image_list
+INFO:2018-09-12 06:12:10,884 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/22.png to self.image_list
+INFO:2018-09-12 06:12:11,139 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/23.png to self.image_list
+INFO:2018-09-12 06:12:11,314 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/24.png to self.image_list
+INFO:2018-09-12 06:12:11,586 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/25.png to self.image_list
+INFO:2018-09-12 06:12:11,712 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/26.png to self.image_list
+INFO:2018-09-12 06:12:12,079 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/27.png to self.image_list
+INFO:2018-09-12 06:12:12,200 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/28.png to self.image_list
+INFO:2018-09-12 06:12:12,567 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/29.png to self.image_list
+INFO:2018-09-12 06:12:12,777 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/30.png to self.image_list
+INFO:2018-09-12 06:12:12,997 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/31.png to self.image_list
+INFO:2018-09-12 06:12:13,231 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/32.png to self.image_list
+INFO:2018-09-12 06:12:13,535 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/33.png to self.image_list
+INFO:2018-09-12 06:12:13,929 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/34.png to self.image_list
+INFO:2018-09-12 06:12:14,045 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/35.png to self.image_list
+INFO:2018-09-12 06:12:14,225 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/36.png to self.image_list
+INFO:2018-09-12 06:12:14,383 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/37.png to self.image_list
+INFO:2018-09-12 06:12:14,505 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/38.png to self.image_list
+INFO:2018-09-12 06:12:14,818 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/39.png to self.image_list
+INFO:2018-09-12 06:12:14,979 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/40.png to self.image_list
+INFO:2018-09-12 06:12:15,297 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/41.png to self.image_list
+INFO:2018-09-12 06:12:15,742 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/42.png to self.image_list
+INFO:2018-09-12 06:12:16,071 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/43.png to self.image_list
+INFO:2018-09-12 06:12:16,596 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/44.png to self.image_list
+INFO:2018-09-12 06:12:16,838 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/45.png to self.image_list
+INFO:2018-09-12 06:12:17,178 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/46.png to self.image_list
+INFO:2018-09-12 06:12:17,582 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/47.png to self.image_list
+INFO:2018-09-12 06:12:17,685 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/48.png to self.image_list
+INFO:2018-09-12 06:12:17,872 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/49.png to self.image_list
+INFO:2018-09-12 06:12:18,187 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/50.png to self.image_list
+INFO:2018-09-12 06:12:18,419 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/51.png to self.image_list
+INFO:2018-09-12 06:12:18,504 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/52.png to self.image_list
+INFO:2018-09-12 06:12:18,704 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/53.png to self.image_list
+INFO:2018-09-12 06:12:18,805 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/54.png to self.image_list
+INFO:2018-09-12 06:12:18,957 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/55.png to self.image_list
+INFO:2018-09-12 06:12:19,183 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/56.png to self.image_list
+INFO:2018-09-12 06:12:19,551 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/57.png to self.image_list
+INFO:2018-09-12 06:12:19,924 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/58.png to self.image_list
+INFO:2018-09-12 06:12:20,303 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/59.png to self.image_list
+INFO:2018-09-12 06:12:20,473 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/60.png to self.image_list
+INFO:2018-09-12 06:12:20,642 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/61.png to self.image_list
+INFO:2018-09-12 06:12:20,865 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/62.png to self.image_list
+INFO:2018-09-12 06:12:21,047 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/63.png to self.image_list
+INFO:2018-09-12 06:12:21,325 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/64.png to self.image_list
+INFO:2018-09-12 06:12:21,619 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/65.png to self.image_list
+INFO:2018-09-12 06:12:21,798 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/66.png to self.image_list
+INFO:2018-09-12 06:12:22,212 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/67.png to self.image_list
+INFO:2018-09-12 06:12:22,511 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/68.png to self.image_list
+INFO:2018-09-12 06:12:22,832 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/69.png to self.image_list
+INFO:2018-09-12 06:12:23,040 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/70.png to self.image_list
+INFO:2018-09-12 06:12:23,444 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/71.png to self.image_list
+INFO:2018-09-12 06:12:23,577 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/72.png to self.image_list
+INFO:2018-09-12 06:12:23,805 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/73.png to self.image_list
+INFO:2018-09-12 06:12:24,043 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/74.png to self.image_list
+INFO:2018-09-12 06:12:24,419 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/75.png to self.image_list
+INFO:2018-09-12 06:12:24,647 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/76.png to self.image_list
+INFO:2018-09-12 06:12:24,887 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/77.png to self.image_list
+INFO:2018-09-12 06:12:25,316 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/78.png to self.image_list
+INFO:2018-09-12 06:12:25,468 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/79.png to self.image_list
+INFO:2018-09-12 06:12:25,508 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/80.png to self.image_list
+INFO:2018-09-12 06:12:25,730 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/81.png to self.image_list
+INFO:2018-09-12 06:12:26,013 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/82.png to self.image_list
+INFO:2018-09-12 06:12:26,277 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/83.png to self.image_list
+INFO:2018-09-12 06:12:26,497 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/84.png to self.image_list
+INFO:2018-09-12 06:12:26,592 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/85.png to self.image_list
+INFO:2018-09-12 06:12:26,952 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/86.png to self.image_list
+INFO:2018-09-12 06:12:26,997 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/87.png to self.image_list
+INFO:2018-09-12 06:12:27,174 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/88.png to self.image_list
+INFO:2018-09-12 06:12:27,208 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/89.png to self.image_list
+INFO:2018-09-12 06:12:27,401 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/90.png to self.image_list
+INFO:2018-09-12 06:12:27,673 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/91.png to self.image_list
+INFO:2018-09-12 06:12:27,906 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/92.png to self.image_list
+INFO:2018-09-12 06:12:28,152 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/93.png to self.image_list
+INFO:2018-09-12 06:12:28,359 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/94.png to self.image_list
+INFO:2018-09-12 06:12:28,406 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/95.png to self.image_list
+INFO:2018-09-12 06:12:28,457 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/96.png to self.image_list
+INFO:2018-09-12 06:12:28,537 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/97.png to self.image_list
+INFO:2018-09-12 06:12:28,561 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/98.png to self.image_list
+INFO:2018-09-12 06:12:28,606 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/99.png to self.image_list
+INFO:2018-09-12 06:12:28,656 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/100.png to self.image_list
+INFO:2018-09-12 06:12:28,706 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/101.png to self.image_list
+INFO:2018-09-12 06:12:28,746 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/102.png to self.image_list
+INFO:2018-09-12 06:12:28,789 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/103.png to self.image_list
+INFO:2018-09-12 06:12:28,835 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/104.png to self.image_list
+INFO:2018-09-12 06:12:28,872 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/105.png to self.image_list
+INFO:2018-09-12 06:12:28,927 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/106.png to self.image_list
+INFO:2018-09-12 06:12:28,975 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/107.png to self.image_list
+INFO:2018-09-12 06:12:29,023 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/108.png to self.image_list
+INFO:2018-09-12 06:12:29,076 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/109.png to self.image_list
+INFO:2018-09-12 06:12:29,134 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/110.png to self.image_list
+INFO:2018-09-12 06:12:29,179 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/111.png to self.image_list
+INFO:2018-09-12 06:12:29,229 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/112.png to self.image_list
+INFO:2018-09-12 06:12:29,281 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/113.png to self.image_list
+INFO:2018-09-12 06:12:29,659 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/114.png to self.image_list
+INFO:2018-09-12 06:12:30,147 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/115.png to self.image_list
+INFO:2018-09-12 06:12:30,509 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/116.png to self.image_list
+INFO:2018-09-12 06:12:30,783 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/117.png to self.image_list
+INFO:2018-09-12 06:12:31,187 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/118.png to self.image_list
+INFO:2018-09-12 06:12:31,650 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/118b.png to self.image_list
+INFO:2018-09-12 06:12:31,905 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/119.png to self.image_list
+INFO:2018-09-12 06:12:32,313 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/120.png to self.image_list
+INFO:2018-09-12 06:12:32,810 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/121.png to self.image_list
+INFO:2018-09-12 06:12:33,344 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/122.png to self.image_list
+INFO:2018-09-12 06:12:33,523 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/123.png to self.image_list
+INFO:2018-09-12 06:12:33,680 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/124.png to self.image_list
+INFO:2018-09-12 06:12:33,998 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/125.png to self.image_list
+INFO:2018-09-12 06:12:34,339 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/126.png to self.image_list
+INFO:2018-09-12 06:12:34,698 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/127.png to self.image_list
+INFO:2018-09-12 06:12:34,844 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/128.png to self.image_list
+INFO:2018-09-12 06:12:35,074 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/129.png to self.image_list
+INFO:2018-09-12 06:12:35,376 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/130.png to self.image_list
+INFO:2018-09-12 06:12:35,517 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/131.png to self.image_list
+INFO:2018-09-12 06:12:35,781 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/132.png to self.image_list
+INFO:2018-09-12 06:12:36,094 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/133.png to self.image_list
+INFO:2018-09-12 06:12:36,355 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/134.png to self.image_list
+INFO:2018-09-12 06:12:36,483 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/135.png to self.image_list
+INFO:2018-09-12 06:12:36,744 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/136.png to self.image_list
+INFO:2018-09-12 06:12:37,087 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/137.png to self.image_list
+INFO:2018-09-12 06:12:37,506 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/138.png to self.image_list
+INFO:2018-09-12 06:12:37,759 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/139.png to self.image_list
+INFO:2018-09-12 06:12:38,107 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/140.png to self.image_list
+INFO:2018-09-12 06:12:38,330 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/141.png to self.image_list
+INFO:2018-09-12 06:12:38,518 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/142.png to self.image_list
+INFO:2018-09-12 06:12:38,702 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/143.png to self.image_list
+INFO:2018-09-12 06:12:39,085 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/144.png to self.image_list
+INFO:2018-09-12 06:12:39,254 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/145.png to self.image_list
+INFO:2018-09-12 06:12:39,472 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/146.png to self.image_list
+INFO:2018-09-12 06:12:39,665 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/147.png to self.image_list
+INFO:2018-09-12 06:12:39,902 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/148.png to self.image_list
+INFO:2018-09-12 06:12:40,297 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/149.png to self.image_list
+INFO:2018-09-12 06:12:40,835 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/150.png to self.image_list
+INFO:2018-09-12 06:12:41,213 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/151.png to self.image_list
+INFO:2018-09-12 06:12:42,546 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/152.png to self.image_list
+INFO:2018-09-12 06:12:43,816 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/153.png to self.image_list
+INFO:2018-09-12 06:12:45,232 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/154.png to self.image_list
+INFO:2018-09-12 06:12:45,427 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/155.png to self.image_list
+INFO:2018-09-12 06:12:46,425 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/156.png to self.image_list
+INFO:2018-09-12 06:12:46,763 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/157.png to self.image_list
+INFO:2018-09-12 06:12:46,912 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/158.png to self.image_list
+INFO:2018-09-12 06:12:47,360 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/159.png to self.image_list
+INFO:2018-09-12 06:12:47,823 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/160.png to self.image_list
+INFO:2018-09-12 06:12:48,272 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/161.png to self.image_list
+INFO:2018-09-12 06:12:48,946 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/162.png to self.image_list
+INFO:2018-09-12 06:12:49,255 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/163.png to self.image_list
+INFO:2018-09-12 06:12:49,593 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/164.png to self.image_list
+INFO:2018-09-12 06:12:49,968 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/165.png to self.image_list
+INFO:2018-09-12 06:12:50,434 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/166.png to self.image_list
+INFO:2018-09-12 06:12:50,678 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/167.png to self.image_list
+INFO:2018-09-12 06:12:51,320 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/168.png to self.image_list
+INFO:2018-09-12 06:12:51,481 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/169.png to self.image_list
+INFO:2018-09-12 06:12:52,042 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/170.png to self.image_list
+INFO:2018-09-12 06:12:52,819 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/171.png to self.image_list
+INFO:2018-09-12 06:12:53,117 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/172.png to self.image_list
+INFO:2018-09-12 06:12:53,421 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/173.png to self.image_list
+INFO:2018-09-12 06:12:53,662 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/174.png to self.image_list
+INFO:2018-09-12 06:12:54,037 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/175.png to self.image_list
+INFO:2018-09-12 06:12:54,112 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/176.png to self.image_list
+INFO:2018-09-12 06:12:54,312 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/177.png to self.image_list
+INFO:2018-09-12 06:12:54,533 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/178.png to self.image_list
+INFO:2018-09-12 06:12:54,934 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/179.png to self.image_list
+INFO:2018-09-12 06:12:55,497 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/180.png to self.image_list
+INFO:2018-09-12 06:12:56,041 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/181.png to self.image_list
+INFO:2018-09-12 06:12:56,190 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/182.png to self.image_list
+INFO:2018-09-12 06:12:56,467 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/183.png to self.image_list
+INFO:2018-09-12 06:12:56,825 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/184.png to self.image_list
+INFO:2018-09-12 06:12:57,172 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/185.png to self.image_list
+INFO:2018-09-12 06:12:57,509 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/186.png to self.image_list
+INFO:2018-09-12 06:12:58,144 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/187.png to self.image_list
+INFO:2018-09-12 06:12:58,748 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/188.png to self.image_list
+INFO:2018-09-12 06:12:59,294 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/189.png to self.image_list
+INFO:2018-09-12 06:12:59,571 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/190.png to self.image_list
+INFO:2018-09-12 06:12:59,875 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/191.png to self.image_list
+INFO:2018-09-12 06:13:00,363 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/192.png to self.image_list
+INFO:2018-09-12 06:13:00,682 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/193.png to self.image_list
+INFO:2018-09-12 06:13:00,967 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/194.png to self.image_list
+INFO:2018-09-12 06:13:01,490 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/195.png to self.image_list
+INFO:2018-09-12 06:13:01,939 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/196.png to self.image_list
+INFO:2018-09-12 06:13:02,850 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/197.png to self.image_list
+INFO:2018-09-12 06:13:03,105 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/198.png to self.image_list
+INFO:2018-09-12 06:13:03,661 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/199.png to self.image_list
+INFO:2018-09-12 06:13:04,199 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/200.png to self.image_list
+INFO:2018-09-12 06:13:04,455 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/201.png to self.image_list
+INFO:2018-09-12 06:13:04,797 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/202.png to self.image_list
+INFO:2018-09-12 06:13:05,246 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/203.png to self.image_list
+INFO:2018-09-12 06:13:05,548 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/204.png to self.image_list
+INFO:2018-09-12 06:13:05,855 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/205.png to self.image_list
+INFO:2018-09-12 06:13:05,981 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/206.png to self.image_list
+INFO:2018-09-12 06:13:06,223 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/207.png to self.image_list
+INFO:2018-09-12 06:13:06,577 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/208.png to self.image_list
+INFO:2018-09-12 06:13:06,734 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/209.png to self.image_list
+INFO:2018-09-12 06:13:07,069 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/210.png to self.image_list
+INFO:2018-09-12 06:13:07,402 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/211.png to self.image_list
+INFO:2018-09-12 06:13:07,625 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/212.png to self.image_list
+INFO:2018-09-12 06:13:07,994 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/213.png to self.image_list
+INFO:2018-09-12 06:13:08,221 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/214.png to self.image_list
+INFO:2018-09-12 06:13:08,756 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/215.png to self.image_list
+INFO:2018-09-12 06:13:09,162 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/216.png to self.image_list
+INFO:2018-09-12 06:13:09,516 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/217.png to self.image_list
+INFO:2018-09-12 06:13:09,694 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/218.png to self.image_list
+INFO:2018-09-12 06:13:09,982 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/219.png to self.image_list
+INFO:2018-09-12 06:13:10,138 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/220.png to self.image_list
+INFO:2018-09-12 06:13:10,446 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/221.png to self.image_list
+INFO:2018-09-12 06:13:10,835 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/222.png to self.image_list
+INFO:2018-09-12 06:13:11,105 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/223.png to self.image_list
+INFO:2018-09-12 06:13:11,442 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/224.png to self.image_list
+INFO:2018-09-12 06:13:12,085 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/225.png to self.image_list
+INFO:2018-09-12 06:13:12,304 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/226.png to self.image_list
+INFO:2018-09-12 06:13:12,474 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/227.png to self.image_list
+INFO:2018-09-12 06:13:12,692 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/228.png to self.image_list
+INFO:2018-09-12 06:13:13,016 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/229.png to self.image_list
+INFO:2018-09-12 06:13:13,318 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/230.png to self.image_list
+INFO:2018-09-12 06:13:13,858 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/231.png to self.image_list
+INFO:2018-09-12 06:13:14,199 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/232.png to self.image_list
+INFO:2018-09-12 06:13:14,562 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/233.png to self.image_list
+INFO:2018-09-12 06:13:14,876 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/234.png to self.image_list
+INFO:2018-09-12 06:13:15,370 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/235.png to self.image_list
+INFO:2018-09-12 06:13:15,573 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/236.png to self.image_list
+INFO:2018-09-12 06:13:15,718 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/237.png to self.image_list
+INFO:2018-09-12 06:13:15,934 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/238.png to self.image_list
+INFO:2018-09-12 06:13:16,421 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/239.png to self.image_list
+INFO:2018-09-12 06:13:16,689 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/240.png to self.image_list
+INFO:2018-09-12 06:13:16,933 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/241.png to self.image_list
+INFO:2018-09-12 06:13:17,049 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/242.png to self.image_list
+INFO:2018-09-12 06:13:17,559 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/243.png to self.image_list
+INFO:2018-09-12 06:13:17,901 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/244.png to self.image_list
+INFO:2018-09-12 06:13:18,349 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/245.png to self.image_list
+INFO:2018-09-12 06:13:18,564 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/246.png to self.image_list
+INFO:2018-09-12 06:13:18,938 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/247.png to self.image_list
+INFO:2018-09-12 06:13:19,358 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/248.png to self.image_list
+INFO:2018-09-12 06:13:19,810 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/249.png to self.image_list
+INFO:2018-09-12 06:13:20,138 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/250.png to self.image_list
+INFO:2018-09-12 06:13:20,399 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/251.png to self.image_list
+INFO:2018-09-12 06:13:20,661 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/252.png to self.image_list
+INFO:2018-09-12 06:13:20,943 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/253.png to self.image_list
+INFO:2018-09-12 06:13:21,231 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/254.png to self.image_list
+INFO:2018-09-12 06:13:21,483 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/255.png to self.image_list
+INFO:2018-09-12 06:13:21,587 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/256.png to self.image_list
+INFO:2018-09-12 06:13:21,857 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/257.png to self.image_list
+INFO:2018-09-12 06:13:22,258 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/258.png to self.image_list
+INFO:2018-09-12 06:13:22,466 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/259.png to self.image_list
+INFO:2018-09-12 06:13:22,727 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/260.png to self.image_list
+INFO:2018-09-12 06:13:22,931 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/261.png to self.image_list
+INFO:2018-09-12 06:13:23,192 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/262.png to self.image_list
+INFO:2018-09-12 06:13:23,477 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/263.png to self.image_list
+INFO:2018-09-12 06:13:23,885 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/264.png to self.image_list
+INFO:2018-09-12 06:13:24,334 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/265.png to self.image_list
+INFO:2018-09-12 06:13:25,060 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/266.png to self.image_list
+INFO:2018-09-12 06:13:25,532 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/267.png to self.image_list
+INFO:2018-09-12 06:13:25,935 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/268.png to self.image_list
+INFO:2018-09-12 06:13:26,309 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/269.png to self.image_list
+INFO:2018-09-12 06:13:26,788 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/270.png to self.image_list
+INFO:2018-09-12 06:13:27,151 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/271.png to self.image_list
+INFO:2018-09-12 06:13:27,851 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/272.png to self.image_list
+INFO:2018-09-12 06:13:28,522 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/273.png to self.image_list
+INFO:2018-09-12 06:13:28,975 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/274.png to self.image_list
+INFO:2018-09-12 06:13:29,396 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/275.png to self.image_list
+INFO:2018-09-12 06:13:29,768 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/276.png to self.image_list
+INFO:2018-09-12 06:13:29,936 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/277.png to self.image_list
+INFO:2018-09-12 06:13:30,212 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/278.png to self.image_list
+INFO:2018-09-12 06:13:30,456 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/279.png to self.image_list
+INFO:2018-09-12 06:13:30,841 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/280.png to self.image_list
+INFO:2018-09-12 06:13:31,212 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/281.png to self.image_list
+INFO:2018-09-12 06:13:31,636 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/282.png to self.image_list
+INFO:2018-09-12 06:13:31,946 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/283.png to self.image_list
+INFO:2018-09-12 06:13:32,082 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/284.png to self.image_list
+INFO:2018-09-12 06:13:32,304 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/285.png to self.image_list
+INFO:2018-09-12 06:13:32,609 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/286.png to self.image_list
+INFO:2018-09-12 06:13:32,798 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/287.png to self.image_list
+INFO:2018-09-12 06:13:33,151 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/288.png to self.image_list
+INFO:2018-09-12 06:13:33,286 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/289.png to self.image_list
+INFO:2018-09-12 06:13:33,638 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/290.png to self.image_list
+INFO:2018-09-12 06:13:33,975 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/291.png to self.image_list
+INFO:2018-09-12 06:13:34,336 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/292.png to self.image_list
+INFO:2018-09-12 06:13:34,484 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/293.png to self.image_list
+INFO:2018-09-12 06:13:34,660 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/294.png to self.image_list
+INFO:2018-09-12 06:13:34,866 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/295.png to self.image_list
+INFO:2018-09-12 06:13:35,205 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/296.png to self.image_list
+INFO:2018-09-12 06:13:35,320 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/297.png to self.image_list
+INFO:2018-09-12 06:13:35,592 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/298.png to self.image_list
+INFO:2018-09-12 06:13:35,965 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/299.png to self.image_list
+INFO:2018-09-12 06:13:36,269 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/300.png to self.image_list
+INFO:2018-09-12 06:13:36,380 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/301.png to self.image_list
+INFO:2018-09-12 06:13:37,122 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/302.png to self.image_list
+INFO:2018-09-12 06:13:37,467 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/303.png to self.image_list
+INFO:2018-09-12 06:13:39,170 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/304.png to self.image_list
+INFO:2018-09-12 06:13:41,634 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/305.png to self.image_list
+INFO:2018-09-12 06:13:42,430 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/306.png to self.image_list
+INFO:2018-09-12 06:13:42,807 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/307.png to self.image_list
+INFO:2018-09-12 06:13:43,304 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/308.png to self.image_list
+INFO:2018-09-12 06:13:43,875 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/309.png to self.image_list
+INFO:2018-09-12 06:13:43,992 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/310.png to self.image_list
+INFO:2018-09-12 06:13:44,460 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/311.png to self.image_list
+INFO:2018-09-12 06:13:44,949 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/312.png to self.image_list
+INFO:2018-09-12 06:13:45,493 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/313.png to self.image_list
+INFO:2018-09-12 06:13:45,649 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/314.png to self.image_list
+INFO:2018-09-12 06:13:45,936 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/315.png to self.image_list
+INFO:2018-09-12 06:13:46,337 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/316.png to self.image_list
+INFO:2018-09-12 06:13:46,764 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/317.png to self.image_list
+INFO:2018-09-12 06:13:47,057 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/318.png to self.image_list
+INFO:2018-09-12 06:13:47,440 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/319.png to self.image_list
+INFO:2018-09-12 06:13:47,758 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/320.png to self.image_list
+INFO:2018-09-12 06:13:47,919 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/321.png to self.image_list
+INFO:2018-09-12 06:13:48,134 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/322.png to self.image_list
+INFO:2018-09-12 06:13:48,692 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/323.png to self.image_list
+INFO:2018-09-12 06:13:49,107 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/324.png to self.image_list
+INFO:2018-09-12 06:13:49,421 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/325.png to self.image_list
+INFO:2018-09-12 06:13:50,106 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/326.png to self.image_list
+INFO:2018-09-12 06:13:50,508 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/327.png to self.image_list
+INFO:2018-09-12 06:13:50,838 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/328.png to self.image_list
+INFO:2018-09-12 06:13:51,051 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/329.png to self.image_list
+INFO:2018-09-12 06:13:51,447 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/330.png to self.image_list
+INFO:2018-09-12 06:13:51,788 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/331.png to self.image_list
+INFO:2018-09-12 06:13:52,142 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/332.png to self.image_list
+INFO:2018-09-12 06:13:52,528 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/333.png to self.image_list
+INFO:2018-09-12 06:13:52,818 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/334.png to self.image_list
+INFO:2018-09-12 06:13:53,123 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/335.png to self.image_list
+INFO:2018-09-12 06:13:53,479 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/336.png to self.image_list
+INFO:2018-09-12 06:13:53,731 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/337.png to self.image_list
+INFO:2018-09-12 06:13:53,857 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/338.png to self.image_list
+INFO:2018-09-12 06:13:54,002 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/339.png to self.image_list
+INFO:2018-09-12 06:13:54,324 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/340.png to self.image_list
+INFO:2018-09-12 06:13:54,588 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/341.png to self.image_list
+INFO:2018-09-12 06:13:54,870 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/342.png to self.image_list
+INFO:2018-09-12 06:13:55,110 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/343.png to self.image_list
+INFO:2018-09-12 06:13:55,518 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/344.png to self.image_list
+INFO:2018-09-12 06:13:55,721 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/345.png to self.image_list
+INFO:2018-09-12 06:13:55,954 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/346.png to self.image_list
+INFO:2018-09-12 06:13:56,240 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/347.png to self.image_list
+INFO:2018-09-12 06:13:56,357 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/348.png to self.image_list
+INFO:2018-09-12 06:13:56,500 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/349.png to self.image_list
+INFO:2018-09-12 06:13:56,720 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/350.png to self.image_list
+INFO:2018-09-12 06:13:57,221 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/351.png to self.image_list
+INFO:2018-09-12 06:13:57,452 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/352.png to self.image_list
+INFO:2018-09-12 06:13:57,991 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/353.png to self.image_list
+INFO:2018-09-12 06:13:58,074 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/354.png to self.image_list
+INFO:2018-09-12 06:13:58,341 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/355.png to self.image_list
+INFO:2018-09-12 06:13:58,668 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/356.png to self.image_list
+INFO:2018-09-12 06:13:59,132 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/357.png to self.image_list
+INFO:2018-09-12 06:13:59,388 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/358.png to self.image_list
+INFO:2018-09-12 06:13:59,627 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/359.png to self.image_list
+INFO:2018-09-12 06:13:59,948 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/360.png to self.image_list
+INFO:2018-09-12 06:14:00,406 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/361.png to self.image_list
+INFO:2018-09-12 06:14:00,733 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/362.png to self.image_list
+INFO:2018-09-12 06:14:00,767 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/363.png to self.image_list
+INFO:2018-09-12 06:14:01,175 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/364.png to self.image_list
+INFO:2018-09-12 06:14:01,382 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/365.png to self.image_list
+INFO:2018-09-12 06:14:02,101 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/366.png to self.image_list
+INFO:2018-09-12 06:14:02,224 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/Dredd/mexico.png to self.image_list
+WARNING:2018-09-12 06:14:02,224 image list is: [<Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1431x599x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1430x597x24 SW)>, <Surface(1293x587x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(2000x1143x24 SW)>]
+INFO:2018-09-12 06:14:02,225 new Viewer class created.  Image list is: [<Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1431x599x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1430x597x24 SW)>, <Surface(1293x587x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(2000x1143x24 SW)>]
+DEBUG:2018-09-12 06:14:02,225 class App called
+INFO:2018-09-12 06:14:04,869 joystick initialized
+INFO:2018-09-12 06:14:04,869 pygame initialized
+INFO:2018-09-12 06:14:11,745 theViewer created.
+INFO:2018-09-12 06:14:11,746 <__main__.Viewer object at 0x000001ECB7912A90> 
+INFO:2018-09-12 06:14:20,083 Controller button 5 pressed
+INFO:2018-09-12 06:14:20,083 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:20,083 image count now set to 0.  There are 368 total images
+INFO:2018-09-12 06:14:20,959 Controller button 5 pressed
+INFO:2018-09-12 06:14:20,959 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:20,959 image count now set to 1.  There are 368 total images
+INFO:2018-09-12 06:14:20,998 Controller button 5 pressed
+INFO:2018-09-12 06:14:20,998 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:20,998 image count now set to 2.  There are 368 total images
+INFO:2018-09-12 06:14:21,112 Controller button 5 pressed
+INFO:2018-09-12 06:14:21,112 Controller select button
+INFO:2018-09-12 06:14:26,625 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
+INFO:2018-09-12 06:14:27,610 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
+INFO:2018-09-12 06:14:27,772 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
+INFO:2018-09-12 06:14:27,870 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
+INFO:2018-09-12 06:14:28,103 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
+INFO:2018-09-12 06:14:28,248 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
+INFO:2018-09-12 06:14:28,301 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
+INFO:2018-09-12 06:14:28,426 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
+INFO:2018-09-12 06:14:28,551 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
+INFO:2018-09-12 06:14:28,708 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
+INFO:2018-09-12 06:14:28,757 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
+INFO:2018-09-12 06:14:29,005 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
+INFO:2018-09-12 06:14:29,075 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
+INFO:2018-09-12 06:14:29,140 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
+INFO:2018-09-12 06:14:29,284 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
+INFO:2018-09-12 06:14:29,444 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
+INFO:2018-09-12 06:14:29,512 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
+INFO:2018-09-12 06:14:29,707 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
+INFO:2018-09-12 06:14:29,776 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
+INFO:2018-09-12 06:14:30,019 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
+INFO:2018-09-12 06:14:30,127 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
+INFO:2018-09-12 06:14:30,352 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
+INFO:2018-09-12 06:14:30,698 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
+INFO:2018-09-12 06:14:31,162 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
+INFO:2018-09-12 06:14:31,460 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
+INFO:2018-09-12 06:14:31,656 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
+INFO:2018-09-12 06:14:31,825 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
+INFO:2018-09-12 06:14:31,987 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
+INFO:2018-09-12 06:14:32,250 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
+INFO:2018-09-12 06:14:32,443 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
+INFO:2018-09-12 06:14:32,596 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
+INFO:2018-09-12 06:14:32,730 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
+INFO:2018-09-12 06:14:33,175 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
+INFO:2018-09-12 06:14:33,299 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
+INFO:2018-09-12 06:14:33,493 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
+INFO:2018-09-12 06:14:33,878 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
+INFO:2018-09-12 06:14:34,176 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
+INFO:2018-09-12 06:14:34,348 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
+INFO:2018-09-12 06:14:34,505 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
+INFO:2018-09-12 06:14:34,667 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
+INFO:2018-09-12 06:14:34,842 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
+INFO:2018-09-12 06:14:35,122 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
+INFO:2018-09-12 06:14:35,265 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
+INFO:2018-09-12 06:14:35,544 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
+INFO:2018-09-12 06:14:35,867 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
+INFO:2018-09-12 06:14:35,980 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
+INFO:2018-09-12 06:14:36,223 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
+INFO:2018-09-12 06:14:36,285 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
+INFO:2018-09-12 06:14:36,542 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
+INFO:2018-09-12 06:14:36,873 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
+INFO:2018-09-12 06:14:37,039 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
+INFO:2018-09-12 06:14:37,222 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
+INFO:2018-09-12 06:14:37,360 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
+INFO:2018-09-12 06:14:37,640 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
+INFO:2018-09-12 06:14:37,783 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
+INFO:2018-09-12 06:14:37,991 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
+INFO:2018-09-12 06:14:38,197 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
+INFO:2018-09-12 06:14:38,332 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
+INFO:2018-09-12 06:14:38,661 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
+INFO:2018-09-12 06:14:38,909 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
+WARNING:2018-09-12 06:14:38,910 image list is: [<Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1431x599x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1430x597x24 SW)>, <Surface(1293x587x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(2000x1143x24 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+INFO:2018-09-12 06:14:39,735 Controller button 5 pressed
+INFO:2018-09-12 06:14:39,735 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:39,735 image count now set to 3.  There are 427 total images
+INFO:2018-09-12 06:14:40,230 Controller button 5 pressed
+INFO:2018-09-12 06:14:40,230 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:40,230 image count now set to 4.  There are 427 total images
+INFO:2018-09-12 06:14:40,728 Controller button 5 pressed
+INFO:2018-09-12 06:14:40,728 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:40,728 image count now set to 5.  There are 427 total images
+INFO:2018-09-12 06:14:41,337 Controller button 5 pressed
+INFO:2018-09-12 06:14:41,337 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:41,337 image count now set to 6.  There are 427 total images
+INFO:2018-09-12 06:14:41,754 Controller button 5 pressed
+INFO:2018-09-12 06:14:41,754 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:41,754 image count now set to 7.  There are 427 total images
+INFO:2018-09-12 06:14:42,134 Controller button 5 pressed
+INFO:2018-09-12 06:14:42,134 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:42,134 image count now set to 8.  There are 427 total images
+INFO:2018-09-12 06:14:42,476 Controller button 5 pressed
+INFO:2018-09-12 06:14:42,476 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:42,476 image count now set to 9.  There are 427 total images
+INFO:2018-09-12 06:14:42,856 Controller button 5 pressed
+INFO:2018-09-12 06:14:42,856 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:42,856 image count now set to 10.  There are 427 total images
+INFO:2018-09-12 06:14:43,161 Controller button 5 pressed
+INFO:2018-09-12 06:14:43,161 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:43,161 image count now set to 11.  There are 427 total images
+INFO:2018-09-12 06:14:43,466 Controller button 5 pressed
+INFO:2018-09-12 06:14:43,466 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:43,466 image count now set to 12.  There are 427 total images
+INFO:2018-09-12 06:14:43,768 Controller button 5 pressed
+INFO:2018-09-12 06:14:43,768 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:43,768 image count now set to 13.  There are 427 total images
+INFO:2018-09-12 06:14:44,034 Controller button 5 pressed
+INFO:2018-09-12 06:14:44,034 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:44,034 image count now set to 14.  There are 427 total images
+INFO:2018-09-12 06:14:44,300 Controller button 5 pressed
+INFO:2018-09-12 06:14:44,300 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:44,300 image count now set to 15.  There are 427 total images
+INFO:2018-09-12 06:14:44,528 Controller button 5 pressed
+INFO:2018-09-12 06:14:44,528 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:44,528 image count now set to 16.  There are 427 total images
+INFO:2018-09-12 06:14:44,795 Controller button 5 pressed
+INFO:2018-09-12 06:14:44,795 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:44,795 image count now set to 17.  There are 427 total images
+INFO:2018-09-12 06:14:45,023 Controller button 5 pressed
+INFO:2018-09-12 06:14:45,023 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:45,023 image count now set to 18.  There are 427 total images
+INFO:2018-09-12 06:14:45,251 Controller button 5 pressed
+INFO:2018-09-12 06:14:45,251 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:45,251 image count now set to 19.  There are 427 total images
+INFO:2018-09-12 06:14:45,935 Controller button 5 pressed
+INFO:2018-09-12 06:14:45,935 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:45,935 image count now set to 20.  There are 427 total images
+INFO:2018-09-12 06:14:47,455 Controller button 5 pressed
+INFO:2018-09-12 06:14:47,683 Controller button 5 pressed
+INFO:2018-09-12 06:14:47,911 Controller button 5 pressed
+INFO:2018-09-12 06:14:49,094 Controller button 5 pressed
+INFO:2018-09-12 06:14:49,094 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:49,094 image count now set to 18.  There are 427 total images
+INFO:2018-09-12 06:14:49,322 Controller button 5 pressed
+INFO:2018-09-12 06:14:49,322 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:49,322 image count now set to 19.  There are 427 total images
+INFO:2018-09-12 06:14:49,550 Controller button 5 pressed
+INFO:2018-09-12 06:14:49,550 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:49,550 image count now set to 20.  There are 427 total images
+INFO:2018-09-12 06:14:49,778 Controller button 5 pressed
+INFO:2018-09-12 06:14:49,778 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:49,778 image count now set to 21.  There are 427 total images
+INFO:2018-09-12 06:14:50,006 Controller button 5 pressed
+INFO:2018-09-12 06:14:50,006 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:50,006 image count now set to 22.  There are 427 total images
+INFO:2018-09-12 06:14:50,234 Controller button 5 pressed
+INFO:2018-09-12 06:14:50,234 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:50,234 image count now set to 23.  There are 427 total images
+INFO:2018-09-12 06:14:50,424 Controller button 5 pressed
+INFO:2018-09-12 06:14:50,424 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:50,424 image count now set to 24.  There are 427 total images
+INFO:2018-09-12 06:14:50,653 Controller button 5 pressed
+INFO:2018-09-12 06:14:50,653 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:50,653 image count now set to 25.  There are 427 total images
+INFO:2018-09-12 06:14:50,881 Controller button 5 pressed
+INFO:2018-09-12 06:14:50,881 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:50,881 image count now set to 26.  There are 427 total images
+INFO:2018-09-12 06:14:51,071 Controller button 5 pressed
+INFO:2018-09-12 06:14:51,071 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:51,071 image count now set to 27.  There are 427 total images
+INFO:2018-09-12 06:14:51,298 Controller button 5 pressed
+INFO:2018-09-12 06:14:51,298 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:51,298 image count now set to 28.  There are 427 total images
+INFO:2018-09-12 06:14:51,526 Controller button 5 pressed
+INFO:2018-09-12 06:14:51,526 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:51,526 image count now set to 29.  There are 427 total images
+INFO:2018-09-12 06:14:51,754 Controller button 5 pressed
+INFO:2018-09-12 06:14:51,754 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:51,754 image count now set to 30.  There are 427 total images
+INFO:2018-09-12 06:14:51,983 Controller button 5 pressed
+INFO:2018-09-12 06:14:51,983 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:51,983 image count now set to 31.  There are 427 total images
+INFO:2018-09-12 06:14:52,173 Controller button 5 pressed
+INFO:2018-09-12 06:14:52,173 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:52,173 image count now set to 32.  There are 427 total images
+INFO:2018-09-12 06:14:52,401 Controller button 5 pressed
+INFO:2018-09-12 06:14:52,401 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:52,401 image count now set to 33.  There are 427 total images
+INFO:2018-09-12 06:14:52,629 Controller button 5 pressed
+INFO:2018-09-12 06:14:52,629 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:52,629 image count now set to 34.  There are 427 total images
+INFO:2018-09-12 06:14:52,857 Controller button 5 pressed
+INFO:2018-09-12 06:14:52,857 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:52,857 image count now set to 35.  There are 427 total images
+INFO:2018-09-12 06:14:53,047 Controller button 5 pressed
+INFO:2018-09-12 06:14:53,047 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:53,047 image count now set to 36.  There are 427 total images
+INFO:2018-09-12 06:14:53,275 Controller button 5 pressed
+INFO:2018-09-12 06:14:53,275 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:53,275 image count now set to 37.  There are 427 total images
+INFO:2018-09-12 06:14:53,465 Controller button 5 pressed
+INFO:2018-09-12 06:14:53,465 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:53,465 image count now set to 38.  There are 427 total images
+INFO:2018-09-12 06:14:53,767 Controller button 5 pressed
+INFO:2018-09-12 06:14:53,767 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:53,767 image count now set to 39.  There are 427 total images
+INFO:2018-09-12 06:14:54,032 Controller button 5 pressed
+INFO:2018-09-12 06:14:54,032 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:54,032 image count now set to 40.  There are 427 total images
+INFO:2018-09-12 06:14:54,298 Controller button 5 pressed
+INFO:2018-09-12 06:14:54,298 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:54,298 image count now set to 41.  There are 427 total images
+INFO:2018-09-12 06:14:54,526 Controller button 5 pressed
+INFO:2018-09-12 06:14:54,526 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:54,526 image count now set to 42.  There are 427 total images
+INFO:2018-09-12 06:14:54,755 Controller button 5 pressed
+INFO:2018-09-12 06:14:54,755 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:54,755 image count now set to 43.  There are 427 total images
+INFO:2018-09-12 06:14:54,944 Controller button 5 pressed
+INFO:2018-09-12 06:14:54,944 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:54,944 image count now set to 44.  There are 427 total images
+INFO:2018-09-12 06:14:55,210 Controller button 5 pressed
+INFO:2018-09-12 06:14:55,210 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:55,210 image count now set to 45.  There are 427 total images
+INFO:2018-09-12 06:14:55,400 Controller button 5 pressed
+INFO:2018-09-12 06:14:55,400 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:55,400 image count now set to 46.  There are 427 total images
+INFO:2018-09-12 06:14:55,589 Controller button 5 pressed
+INFO:2018-09-12 06:14:55,589 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:55,589 image count now set to 47.  There are 427 total images
+INFO:2018-09-12 06:14:56,726 Controller button 5 pressed
+INFO:2018-09-12 06:14:56,726 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:56,726 image count now set to 48.  There are 427 total images
+INFO:2018-09-12 06:14:57,031 Controller button 5 pressed
+INFO:2018-09-12 06:14:57,031 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:57,031 image count now set to 49.  There are 427 total images
+INFO:2018-09-12 06:14:57,371 Controller button 5 pressed
+INFO:2018-09-12 06:14:57,371 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:57,371 image count now set to 50.  There are 427 total images
+INFO:2018-09-12 06:14:57,714 Controller button 5 pressed
+INFO:2018-09-12 06:14:57,714 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:57,714 image count now set to 51.  There are 427 total images
+INFO:2018-09-12 06:14:59,312 Controller button 5 pressed
+INFO:2018-09-12 06:14:59,312 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:59,312 image count now set to 52.  There are 427 total images
+INFO:2018-09-12 06:14:59,616 Controller button 5 pressed
+INFO:2018-09-12 06:14:59,616 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:59,616 image count now set to 53.  There are 427 total images
+INFO:2018-09-12 06:14:59,883 Controller button 5 pressed
+INFO:2018-09-12 06:14:59,883 Controller button 6 pressed.
+DEBUG:2018-09-12 06:14:59,883 image count now set to 54.  There are 427 total images
+INFO:2018-09-12 06:15:00,073 Controller button 5 pressed
+INFO:2018-09-12 06:15:00,073 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:00,073 image count now set to 55.  There are 427 total images
+INFO:2018-09-12 06:15:00,301 Controller button 5 pressed
+INFO:2018-09-12 06:15:00,301 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:00,301 image count now set to 56.  There are 427 total images
+INFO:2018-09-12 06:15:00,492 Controller button 5 pressed
+INFO:2018-09-12 06:15:00,492 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:00,492 image count now set to 57.  There are 427 total images
+INFO:2018-09-12 06:15:00,720 Controller button 5 pressed
+INFO:2018-09-12 06:15:00,720 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:00,720 image count now set to 58.  There are 427 total images
+INFO:2018-09-12 06:15:00,948 Controller button 5 pressed
+INFO:2018-09-12 06:15:00,948 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:00,948 image count now set to 59.  There are 427 total images
+INFO:2018-09-12 06:15:01,330 Controller button 5 pressed
+INFO:2018-09-12 06:15:01,330 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:01,330 image count now set to 60.  There are 427 total images
+INFO:2018-09-12 06:15:01,520 Controller button 5 pressed
+INFO:2018-09-12 06:15:01,520 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:01,520 image count now set to 61.  There are 427 total images
+INFO:2018-09-12 06:15:01,747 Controller button 5 pressed
+INFO:2018-09-12 06:15:01,747 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:01,747 image count now set to 62.  There are 427 total images
+INFO:2018-09-12 06:15:01,975 Controller button 5 pressed
+INFO:2018-09-12 06:15:01,975 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:01,975 image count now set to 63.  There are 427 total images
+INFO:2018-09-12 06:15:02,165 Controller button 5 pressed
+INFO:2018-09-12 06:15:02,165 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:02,165 image count now set to 64.  There are 427 total images
+INFO:2018-09-12 06:15:02,507 Controller button 5 pressed
+INFO:2018-09-12 06:15:02,507 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:02,507 image count now set to 65.  There are 427 total images
+INFO:2018-09-12 06:15:02,925 Controller button 5 pressed
+INFO:2018-09-12 06:15:02,925 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:02,925 image count now set to 66.  There are 427 total images
+INFO:2018-09-12 06:15:03,304 Controller button 5 pressed
+INFO:2018-09-12 06:15:03,304 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:03,304 image count now set to 67.  There are 427 total images
+INFO:2018-09-12 06:15:05,422 Controller button 5 pressed
+INFO:2018-09-12 06:15:05,422 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:05,422 image count now set to 68.  There are 427 total images
+INFO:2018-09-12 06:15:05,688 Controller button 5 pressed
+INFO:2018-09-12 06:15:05,688 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:05,688 image count now set to 69.  There are 427 total images
+INFO:2018-09-12 06:15:05,916 Controller button 5 pressed
+INFO:2018-09-12 06:15:05,916 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:05,916 image count now set to 70.  There are 427 total images
+INFO:2018-09-12 06:15:06,334 Controller button 5 pressed
+INFO:2018-09-12 06:15:06,334 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:06,334 image count now set to 71.  There are 427 total images
+INFO:2018-09-12 06:15:09,068 Controller button 5 pressed
+INFO:2018-09-12 06:15:09,068 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:09,068 image count now set to 72.  There are 427 total images
+INFO:2018-09-12 06:15:09,678 Controller button 5 pressed
+INFO:2018-09-12 06:15:09,678 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:09,678 image count now set to 73.  There are 427 total images
+INFO:2018-09-12 06:15:10,171 Controller button 5 pressed
+INFO:2018-09-12 06:15:10,171 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:10,171 image count now set to 74.  There are 427 total images
+INFO:2018-09-12 06:15:10,512 Controller button 5 pressed
+INFO:2018-09-12 06:15:10,512 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:10,512 image count now set to 75.  There are 427 total images
+INFO:2018-09-12 06:15:11,159 Controller button 5 pressed
+INFO:2018-09-12 06:15:11,159 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:11,159 image count now set to 76.  There are 427 total images
+INFO:2018-09-12 06:15:11,614 Controller button 5 pressed
+INFO:2018-09-12 06:15:11,614 Controller button 6 pressed.
+DEBUG:2018-09-12 06:15:11,614 image count now set to 77.  There are 427 total images
+INFO:2018-09-12 06:15:12,069 Controller button 5 pressed
+INFO:2018-09-12 06:15:12,069 Controller select button
+INFO:2018-09-12 06:15:15,031 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
+INFO:2018-09-12 06:15:15,091 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
+INFO:2018-09-12 06:15:15,143 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
+INFO:2018-09-12 06:15:15,182 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
+INFO:2018-09-12 06:15:15,240 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
+INFO:2018-09-12 06:15:15,273 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
+INFO:2018-09-12 06:15:15,305 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
+INFO:2018-09-12 06:15:15,351 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
+INFO:2018-09-12 06:15:15,391 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
+INFO:2018-09-12 06:15:15,445 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
+INFO:2018-09-12 06:15:15,479 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
+INFO:2018-09-12 06:15:15,521 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
+INFO:2018-09-12 06:15:15,565 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
+INFO:2018-09-12 06:15:15,606 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
+INFO:2018-09-12 06:15:15,651 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
+INFO:2018-09-12 06:15:15,696 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
+INFO:2018-09-12 06:15:15,731 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
+INFO:2018-09-12 06:15:15,771 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
+INFO:2018-09-12 06:15:15,811 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
+INFO:2018-09-12 06:15:15,857 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
+INFO:2018-09-12 06:15:15,905 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
+INFO:2018-09-12 06:15:15,943 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
+INFO:2018-09-12 06:15:15,983 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
+INFO:2018-09-12 06:15:16,027 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
+INFO:2018-09-12 06:15:16,075 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
+INFO:2018-09-12 06:15:16,115 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
+INFO:2018-09-12 06:15:16,158 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
+INFO:2018-09-12 06:15:16,198 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
+INFO:2018-09-12 06:15:16,238 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
+INFO:2018-09-12 06:15:16,277 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
+INFO:2018-09-12 06:15:16,321 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
+INFO:2018-09-12 06:15:16,363 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
+INFO:2018-09-12 06:15:16,406 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
+INFO:2018-09-12 06:15:16,455 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
+INFO:2018-09-12 06:15:16,502 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
+INFO:2018-09-12 06:15:16,546 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
+INFO:2018-09-12 06:15:16,591 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
+INFO:2018-09-12 06:15:16,631 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
+INFO:2018-09-12 06:15:16,667 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
+INFO:2018-09-12 06:15:16,715 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
+INFO:2018-09-12 06:15:16,760 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
+INFO:2018-09-12 06:15:16,807 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
+INFO:2018-09-12 06:15:16,852 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
+INFO:2018-09-12 06:15:16,899 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
+INFO:2018-09-12 06:15:16,951 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
+INFO:2018-09-12 06:15:16,997 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
+INFO:2018-09-12 06:15:17,049 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
+INFO:2018-09-12 06:15:17,073 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
+INFO:2018-09-12 06:15:17,099 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
+INFO:2018-09-12 06:15:17,132 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
+INFO:2018-09-12 06:15:17,159 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
+INFO:2018-09-12 06:15:17,188 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
+INFO:2018-09-12 06:15:17,210 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
+INFO:2018-09-12 06:15:17,238 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
+INFO:2018-09-12 06:15:17,258 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
+INFO:2018-09-12 06:15:17,302 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
+INFO:2018-09-12 06:15:17,338 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
+INFO:2018-09-12 06:15:17,380 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
+INFO:2018-09-12 06:15:17,413 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
+INFO:2018-09-12 06:15:17,454 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
+WARNING:2018-09-12 06:15:17,454 image list is: [<Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x24 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1429x761x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1429x599x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1431x599x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1430x597x24 SW)>, <Surface(1293x587x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x24 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(1426x596x32 SW)>, <Surface(2000x1143x24 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+INFO:2018-09-12 06:16:10,309 Controller button 5 pressed
+INFO:2018-09-12 06:16:10,309 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:10,309 image count now set to 78.  There are 486 total images
+INFO:2018-09-12 06:16:10,727 Controller button 5 pressed
+INFO:2018-09-12 06:16:10,727 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:10,727 image count now set to 79.  There are 486 total images
+INFO:2018-09-12 06:16:11,183 Controller button 5 pressed
+INFO:2018-09-12 06:16:11,183 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:11,183 image count now set to 80.  There are 486 total images
+INFO:2018-09-12 06:16:11,486 Controller button 5 pressed
+INFO:2018-09-12 06:16:11,486 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:11,486 image count now set to 81.  There are 486 total images
+INFO:2018-09-12 06:16:11,791 Controller button 5 pressed
+INFO:2018-09-12 06:16:11,791 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:11,791 image count now set to 82.  There are 486 total images
+INFO:2018-09-12 06:16:12,134 Controller button 5 pressed
+INFO:2018-09-12 06:16:12,134 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:12,134 image count now set to 83.  There are 486 total images
+INFO:2018-09-12 06:16:12,475 Controller button 5 pressed
+INFO:2018-09-12 06:16:12,475 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:12,475 image count now set to 84.  There are 486 total images
+INFO:2018-09-12 06:16:12,853 Controller button 5 pressed
+INFO:2018-09-12 06:16:12,853 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:12,853 image count now set to 85.  There are 486 total images
+INFO:2018-09-12 06:16:13,195 Controller button 5 pressed
+INFO:2018-09-12 06:16:13,195 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:13,195 image count now set to 86.  There are 486 total images
+INFO:2018-09-12 06:16:13,461 Controller button 5 pressed
+INFO:2018-09-12 06:16:13,461 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:13,461 image count now set to 87.  There are 486 total images
+INFO:2018-09-12 06:16:13,726 Controller button 5 pressed
+INFO:2018-09-12 06:16:13,726 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:13,726 image count now set to 88.  There are 486 total images
+INFO:2018-09-12 06:16:13,993 Controller button 5 pressed
+INFO:2018-09-12 06:16:13,993 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:13,993 image count now set to 89.  There are 486 total images
+INFO:2018-09-12 06:16:14,258 Controller button 5 pressed
+INFO:2018-09-12 06:16:14,258 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:14,258 image count now set to 90.  There are 486 total images
+INFO:2018-09-12 06:16:14,486 Controller button 5 pressed
+INFO:2018-09-12 06:16:14,486 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:14,486 image count now set to 91.  There are 486 total images
+INFO:2018-09-12 06:16:14,750 Controller button 5 pressed
+INFO:2018-09-12 06:16:14,750 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:14,750 image count now set to 92.  There are 486 total images
+INFO:2018-09-12 06:16:14,979 Controller button 5 pressed
+INFO:2018-09-12 06:16:14,979 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:14,979 image count now set to 93.  There are 486 total images
+INFO:2018-09-12 06:16:15,207 Controller button 5 pressed
+INFO:2018-09-12 06:16:15,207 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:15,207 image count now set to 94.  There are 486 total images
+INFO:2018-09-12 06:16:15,434 Controller button 5 pressed
+INFO:2018-09-12 06:16:15,434 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:15,434 image count now set to 95.  There are 486 total images
+INFO:2018-09-12 06:16:15,662 Controller button 5 pressed
+INFO:2018-09-12 06:16:15,662 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:15,662 image count now set to 96.  There are 486 total images
+INFO:2018-09-12 06:16:16,042 Controller button 5 pressed
+INFO:2018-09-12 06:16:16,042 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:16,042 image count now set to 97.  There are 486 total images
+INFO:2018-09-12 06:16:16,309 Controller button 5 pressed
+INFO:2018-09-12 06:16:16,309 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:16,309 image count now set to 98.  There are 486 total images
+INFO:2018-09-12 06:16:16,537 Controller button 5 pressed
+INFO:2018-09-12 06:16:16,537 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:16,537 image count now set to 99.  There are 486 total images
+INFO:2018-09-12 06:16:17,297 Controller button 5 pressed
+INFO:2018-09-12 06:16:17,297 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:17,297 image count now set to 100.  There are 486 total images
+INFO:2018-09-12 06:16:17,601 Controller button 5 pressed
+INFO:2018-09-12 06:16:17,601 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:17,601 image count now set to 101.  There are 486 total images
+INFO:2018-09-12 06:16:18,439 Controller button 5 pressed
+INFO:2018-09-12 06:16:18,439 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:18,439 image count now set to 102.  There are 486 total images
+INFO:2018-09-12 06:16:19,198 Controller button 5 pressed
+INFO:2018-09-12 06:16:19,578 Controller button 5 pressed
+INFO:2018-09-12 06:16:19,996 Controller button 5 pressed
+INFO:2018-09-12 06:16:19,996 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:19,996 image count now set to 101.  There are 486 total images
+INFO:2018-09-12 06:16:20,756 Controller button 5 pressed
+INFO:2018-09-12 06:16:21,065 Controller button 5 pressed
+INFO:2018-09-12 06:16:21,332 Controller button 5 pressed
+INFO:2018-09-12 06:16:21,598 Controller button 5 pressed
+INFO:2018-09-12 06:16:21,901 Controller button 5 pressed
+INFO:2018-09-12 06:16:22,582 Controller button 5 pressed
+INFO:2018-09-12 06:16:23,077 Controller button 5 pressed
+INFO:2018-09-12 06:16:41,765 Controller button 5 pressed
+INFO:2018-09-12 06:16:41,765 Controller button 6 pressed.
+DEBUG:2018-09-12 06:16:41,765 image count now set to 95.  There are 486 total images
+INFO:2018-09-12 06:16:42,183 Controller button 5 pressed
+INFO:2018-09-12 06:17:56,383 Controller button 5 pressed
+INFO:2018-09-12 06:17:56,383 Controller button 6 pressed.
+DEBUG:2018-09-12 06:17:56,383 image count now set to 95.  There are 486 total images
+INFO:2018-09-12 06:17:56,725 Controller button 5 pressed
+INFO:2018-09-12 06:17:56,725 Controller button 6 pressed.
+DEBUG:2018-09-12 06:17:56,725 image count now set to 96.  There are 486 total images
+INFO:2018-09-12 06:18:53,745 Controller button 5 pressed
+INFO:2018-09-12 06:18:53,859 Controller button 5 pressed
+INFO:2018-09-12 06:19:01,041 Controller button 5 pressed
+INFO:2018-09-12 06:19:01,041 Controller button 6 pressed.
+DEBUG:2018-09-12 06:19:01,041 image count now set to 95.  There are 486 total images
+INFO:2018-09-12 06:19:19,776 Controller button 5 pressed
+INFO:2018-09-12 06:19:22,481 Controller button 5 pressed
+INFO:2018-09-12 06:19:32,063 Controller button 5 pressed
+INFO:2018-09-12 06:20:08,131 Controller button 5 pressed
+INFO:2018-09-12 06:20:08,131 Controller button 6 pressed.
+DEBUG:2018-09-12 06:20:08,131 image count now set to 93.  There are 486 total images
+INFO:2018-09-12 06:20:08,245 Controller button 5 pressed
+INFO:2018-09-12 06:20:08,245 Controller button 6 pressed.
+DEBUG:2018-09-12 06:20:08,245 image count now set to 94.  There are 486 total images
+INFO:2018-09-12 06:20:08,663 Controller button 5 pressed
+INFO:2018-09-12 06:20:08,663 Controller button 6 pressed.
+DEBUG:2018-09-12 06:20:08,663 image count now set to 95.  There are 486 total images
+INFO:2018-09-12 06:20:09,156 Controller button 5 pressed
+INFO:2018-09-12 06:20:09,156 Controller select button
+INFO:2018-09-12 06:20:13,875  folder selected

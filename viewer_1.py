@@ -123,12 +123,12 @@ class Data:
 
 class Viewer:
         def __init__(self):
-                self.image = pygame.image.load('enterprise1.png')
                 self.x = 10 
                 self.y = 10 
                 self.width = 64
                 self.height = 64
                 self.change_image = theData.image_list 
+                self.image = self.change_image[0]
                 logging.info('new Viewer class created.  Image list is: %s', self.change_image)
 
         def prev_image(self):
