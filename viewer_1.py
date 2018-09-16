@@ -20,6 +20,10 @@ class App:
                 self.size = self.weight, self.height = 1400, 600
                 self.image_count = 0
                 self.clock = None
+                self.text_surface1 = None
+                self.text_surface2 = None
+                self.text_surface3 = None
+                
 
         def on_init(self):
                 pygame.init()
@@ -52,16 +56,30 @@ class App:
 
                 # Joystick Input
                 if event.type == pygame.JOYBUTTONDOWN:
-                        logging.info('Controller button 5 pressed')
-                        if self.joystick.get_button(4):
-                                theViewer.prev_image() 
+                        logging.info('a controller button was pressed')
+                        if self.joystick.get_button(0):
+                            logging.info('Controller button 0 pressed')
+                            self.text_surface1 = theData.font.render('Controller button 0 pressed', False, (0, 0, 255))
+                        elif self.joystick.get_button(1):
+                            logging.info('Controller button 1 pressed')
+                            self.text_surface2 = theData.create_text('Controller button 1 pressed', theData.font, False, (0, 0, 255))
+                        elif self.joystick.get_button(2):
+                            logging.info('Controller button 2 pressed' )
+                            self.text_surface3 = theData.create_text('Controller button 2 pressed', theData.font, 72, (0, 0, 255))
+                        elif self.joystick.get_button(3):
+                            logging.info('Controller button 3 pressed')
+                        elif self.joystick.get_button(4):
+                            logging.info('Controller button 4 pressed')
+                            theViewer.prev_image() 
                         elif self.joystick.get_button(5):
-                                logging.info('Controller button 6 pressed.')
-                                theViewer.next_image()
+                            logging.info('Controller button 5 pressed.')
+                            theViewer.next_image()
                         elif self.joystick.get_button(6):
-                                logging.info('Controller select button')
-                                theData.browse_folder()
-                                theData.get_images()
+                            logging.info('Controller button 6 pressed.')
+                            theData.browse_folder()
+                            theData.get_images()
+                        elif self.joystick.get_button(7):
+                            logging.info('Controller button 7 pressed.')
 
         def on_loop(self):
                 pass
@@ -69,6 +87,9 @@ class App:
                 black = 0, 0, 0
                 self._display_surf.fill(black)
                 self._display_surf.blit(theViewer.image, (theViewer.x, theViewer.y))
+                self._display_surf.blit(theApp.text_surface1, (50, 40))
+                self._display_surf.blit(theApp.text_surface2, (50, 70))
+                self._display_surf.blit(theApp.text_surface3, (50, 80))
                 pygame.display.flip()
 
         def on_cleanup(self):
@@ -80,7 +101,7 @@ class App:
                         logging.info('App.on_execute if self.on_init() == False RUNNING')
                         self._running = False
 
-                while( self._running ):
+                while (self._running):
                         self.clock.tick(27)
                         for event in pygame.event.get():
                                 self.on_event(event)
@@ -95,6 +116,9 @@ class Data:
                 self.image_list = []
                 self.browse_folder()
                 self.get_images()
+                self._cached_text = {}
+                pygame.font.init()
+                self.font = pygame.font.Font(None, 26)
 
         def sort_filenames(self, l):
                 """ Sorts the given iterable in the way that is expected.
@@ -120,17 +144,26 @@ class Data:
                                 self.image_list.append(pygame.image.load(self.folder + '/' + f))
                                 logging.info('adding %s to self.image_list', self.folder + '/' + f)
                 logging.warning('image list is: %s', self.image_list)
+        def create_text(text, fonts, size, color):
+            key = '|'.join(map(str, (fonts, size, color, text)))
+            image = self.cached_text.get(key, None)
+            if image == None:
+                image = self.font(text, True, color)
+                self.cached_text[key] = image
+            return image
 
 class Viewer:
         def __init__(self):
                 self.x = 10 
                 self.y = 10 
+                self.text_x = 20
+                self.text_y = 40
                 self.width = 64
                 self.height = 64
                 self.change_image = theData.image_list 
                 self.image = self.change_image[0]
                 logging.info('new Viewer class created.  Image list is: %s', self.change_image)
-
+            
         def prev_image(self):
                 if theApp.image_count > 0:
                         theApp.image_count -=1
@@ -148,5 +181,4 @@ if __name__ == "__main__" :
         theData = Data()
         theViewer = Viewer()
         theApp= App()
-
         theApp.on_execute()
