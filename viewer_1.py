@@ -62,10 +62,10 @@ class App:
                             self.text_surface1 = theData.font.render('Controller button 0 pressed', False, (0, 0, 255))
                         elif self.joystick.get_button(1):
                             logging.info('Controller button 1 pressed')
-                            self.text_surface2 = theData.create_text('Controller button 1 pressed', theData.font, False, (0, 0, 255))
+                            self.text_surface2 = theData.font.render('Controller button 1 pressed', False, (255, 0, 0))
                         elif self.joystick.get_button(2):
                             logging.info('Controller button 2 pressed' )
-                            self.text_surface3 = theData.create_text('Controller button 2 pressed', theData.font, 72, (0, 0, 255))
+                            self.text_surface3 = theData.font.render('Controller button 2 pressed', False, (0, 255, 0))
                         elif self.joystick.get_button(3):
                             logging.info('Controller button 3 pressed')
                         elif self.joystick.get_button(4):
@@ -87,9 +87,12 @@ class App:
                 black = 0, 0, 0
                 self._display_surf.fill(black)
                 self._display_surf.blit(theViewer.image, (theViewer.x, theViewer.y))
-                self._display_surf.blit(theApp.text_surface1, (50, 40))
-                self._display_surf.blit(theApp.text_surface2, (50, 70))
-                self._display_surf.blit(theApp.text_surface3, (50, 80))
+                if self.text_surface1 is not None:
+                    self._display_surf.blit(self.text_surface1, (50, 40))
+                if self.text_surface2 is not None:
+                    self._display_surf.blit(self.text_surface2, (50, 70))
+                if self.text_surface3 is not None:
+                    self._display_surf.blit(self.text_surface3, (50, 110))
                 pygame.display.flip()
 
         def on_cleanup(self):
@@ -144,13 +147,6 @@ class Data:
                                 self.image_list.append(pygame.image.load(self.folder + '/' + f))
                                 logging.info('adding %s to self.image_list', self.folder + '/' + f)
                 logging.warning('image list is: %s', self.image_list)
-        def create_text(text, fonts, size, color):
-            key = '|'.join(map(str, (fonts, size, color, text)))
-            image = self.cached_text.get(key, None)
-            if image == None:
-                image = self.font(text, True, color)
-                self.cached_text[key] = image
-            return image
 
 class Viewer:
         def __init__(self):

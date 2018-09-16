@@ -1,0 +1,8 @@
+button 0: A
+button 1: B
+button 2: X
+button 3: Y
+button 4: L Button
+button 5: R Button
+button 6: Select
+button 7: Start

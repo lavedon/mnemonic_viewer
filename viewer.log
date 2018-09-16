@@ -1,274 +1,99 @@
-DEBUG:2018-09-15 07:43:28,008 class Data called.
-INFO:2018-09-15 07:43:30,937 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-15 07:43:30,997 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-15 07:43:31,046 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-15 07:43:31,086 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-15 07:43:31,145 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-15 07:43:31,179 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-15 07:43:31,211 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-15 07:43:31,256 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-15 07:43:31,295 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-15 07:43:31,349 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-15 07:43:31,383 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-15 07:43:31,425 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-15 07:43:31,467 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-15 07:43:31,507 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-15 07:43:31,553 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-15 07:43:31,598 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-15 07:43:31,632 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-15 07:43:31,675 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-15 07:43:31,714 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-15 07:43:31,760 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-15 07:43:31,807 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-15 07:43:31,846 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-15 07:43:31,887 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-15 07:43:31,931 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-15 07:43:31,979 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-15 07:43:32,020 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-15 07:43:32,062 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-15 07:43:32,106 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-15 07:43:32,150 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-15 07:43:32,189 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-15 07:43:32,232 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-15 07:43:32,274 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-15 07:43:32,317 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-15 07:43:32,365 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-15 07:43:32,414 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-15 07:43:32,458 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-15 07:43:32,503 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-15 07:43:32,542 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-15 07:43:32,579 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-15 07:43:32,628 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-15 07:43:32,674 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-15 07:43:32,721 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-15 07:43:32,764 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-15 07:43:32,811 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-15 07:43:32,862 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-15 07:43:32,910 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-15 07:43:32,961 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-15 07:43:32,984 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-15 07:43:33,010 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-15 07:43:33,042 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-15 07:43:33,067 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-15 07:43:33,094 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-15 07:43:33,116 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-15 07:43:33,145 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-15 07:43:33,166 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-15 07:43:33,210 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-15 07:43:33,247 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-15 07:43:33,290 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-15 07:43:33,323 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-15 07:43:33,363 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-15 07:43:33,363 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-15 07:43:33,868 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-15 07:43:33,868 class App called
-INFO:2018-09-15 07:43:33,935 joystick initialized
-INFO:2018-09-15 07:43:33,935 pygame initialized
-INFO:2018-09-15 07:43:33,943 theViewer created.
-INFO:2018-09-15 07:43:33,944 <__main__.Viewer object at 0x00000125F08C76D8> 
-DEBUG:2018-09-15 07:46:09,392 class Data called.
-INFO:2018-09-15 07:46:13,937 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-15 07:46:13,998 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-15 07:46:14,049 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-15 07:46:14,089 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-15 07:46:14,148 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-15 07:46:14,181 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-15 07:46:14,214 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-15 07:46:14,260 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-15 07:46:14,299 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-15 07:46:14,352 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-15 07:46:14,386 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-15 07:46:14,426 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-15 07:46:14,469 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-15 07:46:14,510 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-15 07:46:14,556 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-15 07:46:14,602 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-15 07:46:14,637 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-15 07:46:14,680 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-15 07:46:14,719 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-15 07:46:14,766 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-15 07:46:14,815 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-15 07:46:14,854 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-15 07:46:14,896 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-15 07:46:14,940 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-15 07:46:14,989 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-15 07:46:15,031 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-15 07:46:15,075 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-15 07:46:15,117 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-15 07:46:15,157 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-15 07:46:15,197 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-15 07:46:15,243 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-15 07:46:15,285 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-15 07:46:15,329 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-15 07:46:15,376 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-15 07:46:15,427 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-15 07:46:15,472 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-15 07:46:15,520 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-15 07:46:15,560 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-15 07:46:15,599 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-15 07:46:15,647 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-15 07:46:15,692 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-15 07:46:15,740 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-15 07:46:15,785 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-15 07:46:15,833 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-15 07:46:15,884 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-15 07:46:15,932 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-15 07:46:15,984 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-15 07:46:16,008 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-15 07:46:16,033 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-15 07:46:16,066 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-15 07:46:16,092 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-15 07:46:16,120 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-15 07:46:16,144 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-15 07:46:16,172 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-15 07:46:16,193 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-15 07:46:16,239 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-15 07:46:16,275 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-15 07:46:16,318 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-15 07:46:16,352 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-15 07:46:16,393 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-15 07:46:16,393 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-15 07:46:16,394 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-15 07:46:16,394 class App called
-INFO:2018-09-15 07:46:16,395 joystick initialized
-INFO:2018-09-15 07:46:16,395 pygame initialized
-INFO:2018-09-15 07:46:16,400 theViewer created.
-INFO:2018-09-15 07:46:16,400 <__main__.Viewer object at 0x00000125F096FB70> 
-DEBUG:2018-09-15 07:47:09,024 class Data called.
-INFO:2018-09-15 07:47:09,484 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-15 07:47:09,547 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-15 07:47:09,598 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-15 07:47:09,639 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-15 07:47:09,698 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-15 07:47:09,732 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-15 07:47:09,764 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-15 07:47:09,810 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-15 07:47:09,849 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-15 07:47:09,904 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-15 07:47:09,938 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-15 07:47:09,979 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-15 07:47:10,023 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-15 07:47:10,065 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-15 07:47:10,112 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-15 07:47:10,158 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-15 07:47:10,193 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-15 07:47:10,235 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-15 07:47:10,274 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-15 07:47:10,321 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-15 07:47:10,369 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-15 07:47:10,407 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-15 07:47:10,448 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-15 07:47:10,491 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-15 07:47:10,539 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-15 07:47:10,582 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-15 07:47:10,625 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-15 07:47:10,667 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-15 07:47:10,707 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-15 07:47:10,746 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-15 07:47:10,789 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-15 07:47:10,831 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-15 07:47:10,884 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-15 07:47:10,932 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-15 07:47:10,981 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-15 07:47:11,027 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-15 07:47:11,073 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-15 07:47:11,113 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-15 07:47:11,150 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-15 07:47:11,198 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-15 07:47:11,244 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-15 07:47:11,291 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-15 07:47:11,335 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-15 07:47:11,384 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-15 07:47:11,435 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-15 07:47:11,483 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-15 07:47:11,534 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-15 07:47:11,557 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-15 07:47:11,583 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-15 07:47:11,614 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-15 07:47:11,663 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-15 07:47:11,691 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-15 07:47:11,713 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-15 07:47:11,741 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-15 07:47:11,761 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-15 07:47:11,805 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-15 07:47:11,841 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-15 07:47:11,884 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-15 07:47:11,917 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-15 07:47:11,958 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-15 07:47:11,958 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-15 07:47:11,959 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-15 07:47:11,959 class App called
-INFO:2018-09-15 07:47:11,959 joystick initialized
-INFO:2018-09-15 07:47:11,959 pygame initialized
-INFO:2018-09-15 07:47:11,966 theViewer created.
-INFO:2018-09-15 07:47:11,966 <__main__.Viewer object at 0x00000125F6A11A58> 
-DEBUG:2018-09-15 07:47:53,087 class Data called.
-INFO:2018-09-15 07:47:58,375 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-15 07:47:58,436 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-15 07:47:58,487 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-15 07:47:58,526 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-15 07:47:58,584 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-15 07:47:58,617 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-15 07:47:58,650 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-15 07:47:58,695 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-15 07:47:58,734 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-15 07:47:58,788 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-15 07:47:58,821 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-15 07:47:58,862 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-15 07:47:58,904 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-15 07:47:58,945 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-15 07:47:58,990 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-15 07:47:59,036 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-15 07:47:59,071 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-15 07:47:59,113 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-15 07:47:59,153 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-15 07:47:59,199 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-15 07:47:59,247 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-15 07:47:59,286 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-15 07:47:59,327 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-15 07:47:59,370 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-15 07:47:59,418 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-15 07:47:59,460 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-15 07:47:59,503 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-15 07:47:59,544 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-15 07:47:59,585 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-15 07:47:59,626 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-15 07:47:59,671 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-15 07:47:59,714 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-15 07:47:59,758 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-15 07:47:59,807 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-15 07:47:59,855 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-15 07:47:59,900 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-15 07:47:59,947 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-15 07:47:59,987 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-15 07:48:00,031 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-15 07:48:00,081 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-15 07:48:00,127 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-15 07:48:00,177 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-15 07:48:00,224 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-15 07:48:00,273 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-15 07:48:00,325 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-15 07:48:00,373 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-15 07:48:00,427 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-15 07:48:00,453 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-15 07:48:00,481 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-15 07:48:00,512 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-15 07:48:00,538 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-15 07:48:00,566 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-15 07:48:00,587 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-15 07:48:00,616 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-15 07:48:00,639 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-15 07:48:00,684 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-15 07:48:00,722 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-15 07:48:00,765 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-15 07:48:00,800 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-15 07:48:00,840 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-15 07:48:00,841 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-15 07:48:00,841 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-15 07:48:00,842 class App called
-INFO:2018-09-15 07:48:00,842 joystick initialized
-INFO:2018-09-15 07:48:00,842 pygame initialized
-INFO:2018-09-15 07:48:00,848 theViewer created.
-INFO:2018-09-15 07:48:00,848 <__main__.Viewer object at 0x00000125F0E57320> 
-DEBUG:2018-09-15 07:48:13,047 class Data called.
-INFO:2018-09-15 07:48:16,359  folder selected
+DEBUG:2018-09-15 23:08:49,272 class Data called.
+INFO:2018-09-15 23:08:56,750 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
+INFO:2018-09-15 23:08:56,817 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
+INFO:2018-09-15 23:08:56,868 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
+INFO:2018-09-15 23:08:56,910 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
+INFO:2018-09-15 23:08:56,974 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
+INFO:2018-09-15 23:08:57,008 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
+INFO:2018-09-15 23:08:57,041 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
+INFO:2018-09-15 23:08:57,086 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
+INFO:2018-09-15 23:08:57,124 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
+INFO:2018-09-15 23:08:57,180 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
+INFO:2018-09-15 23:08:57,214 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
+INFO:2018-09-15 23:08:57,256 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
+INFO:2018-09-15 23:08:57,299 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
+INFO:2018-09-15 23:08:57,341 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
+INFO:2018-09-15 23:08:57,386 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
+INFO:2018-09-15 23:08:57,431 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
+INFO:2018-09-15 23:08:57,466 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
+INFO:2018-09-15 23:08:57,510 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
+INFO:2018-09-15 23:08:57,554 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
+INFO:2018-09-15 23:08:57,599 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
+INFO:2018-09-15 23:08:57,646 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
+INFO:2018-09-15 23:08:57,684 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
+INFO:2018-09-15 23:08:57,725 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
+INFO:2018-09-15 23:08:57,769 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
+INFO:2018-09-15 23:08:57,816 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
+INFO:2018-09-15 23:08:57,857 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
+INFO:2018-09-15 23:08:57,899 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
+INFO:2018-09-15 23:08:57,940 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
+INFO:2018-09-15 23:08:57,981 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
+INFO:2018-09-15 23:08:58,020 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
+INFO:2018-09-15 23:08:58,064 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
+INFO:2018-09-15 23:08:58,108 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
+INFO:2018-09-15 23:08:58,152 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
+INFO:2018-09-15 23:08:58,201 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
+INFO:2018-09-15 23:08:58,249 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
+INFO:2018-09-15 23:08:58,294 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
+INFO:2018-09-15 23:08:58,340 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
+INFO:2018-09-15 23:08:58,380 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
+INFO:2018-09-15 23:08:58,417 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
+INFO:2018-09-15 23:08:58,466 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
+INFO:2018-09-15 23:08:58,511 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
+INFO:2018-09-15 23:08:58,558 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
+INFO:2018-09-15 23:08:58,603 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
+INFO:2018-09-15 23:08:58,650 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
+INFO:2018-09-15 23:08:58,702 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
+INFO:2018-09-15 23:08:58,749 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
+INFO:2018-09-15 23:08:58,801 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
+INFO:2018-09-15 23:08:58,824 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
+INFO:2018-09-15 23:08:58,850 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
+INFO:2018-09-15 23:08:58,880 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
+INFO:2018-09-15 23:08:58,907 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
+INFO:2018-09-15 23:08:58,934 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
+INFO:2018-09-15 23:08:58,957 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
+INFO:2018-09-15 23:08:58,985 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
+INFO:2018-09-15 23:08:59,006 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
+INFO:2018-09-15 23:08:59,051 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
+INFO:2018-09-15 23:08:59,088 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
+INFO:2018-09-15 23:08:59,130 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
+INFO:2018-09-15 23:08:59,165 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
+INFO:2018-09-15 23:08:59,206 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
+WARNING:2018-09-15 23:08:59,206 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+INFO:2018-09-15 23:08:59,542 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+DEBUG:2018-09-15 23:08:59,542 class App called
+INFO:2018-09-15 23:08:59,609 joystick initialized
+INFO:2018-09-15 23:08:59,609 pygame initialized
+INFO:2018-09-15 23:08:59,617 theViewer created.
+INFO:2018-09-15 23:08:59,617 <__main__.Viewer object at 0x0000019ACE443D30> 
+INFO:2018-09-15 23:09:01,439 a controller button was pressed
+INFO:2018-09-15 23:09:01,439 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:01,439 image count now set to 0.  There are 59 total images
+INFO:2018-09-15 23:09:02,351 a controller button was pressed
+INFO:2018-09-15 23:09:02,351 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:02,351 image count now set to 1.  There are 59 total images
+INFO:2018-09-15 23:09:02,768 a controller button was pressed
+INFO:2018-09-15 23:09:02,768 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:02,768 image count now set to 2.  There are 59 total images
+INFO:2018-09-15 23:09:03,072 a controller button was pressed
+INFO:2018-09-15 23:09:03,072 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:03,072 image count now set to 3.  There are 59 total images
+INFO:2018-09-15 23:09:03,415 a controller button was pressed
+INFO:2018-09-15 23:09:03,415 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:03,415 image count now set to 4.  There are 59 total images
+INFO:2018-09-15 23:09:03,834 a controller button was pressed
+INFO:2018-09-15 23:09:03,834 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:03,834 image count now set to 5.  There are 59 total images
+INFO:2018-09-15 23:09:04,634 a controller button was pressed
+INFO:2018-09-15 23:09:04,634 Controller button 5 pressed.
+DEBUG:2018-09-15 23:09:04,634 image count now set to 6.  There are 59 total images
+INFO:2018-09-15 23:09:11,810 a controller button was pressed
+INFO:2018-09-15 23:09:11,810 Controller button 2 pressed
+INFO:2018-09-15 23:09:20,484 a controller button was pressed
+INFO:2018-09-15 23:09:20,484 Controller button 2 pressed
+INFO:2018-09-15 23:09:21,206 a controller button was pressed
+INFO:2018-09-15 23:09:21,206 Controller button 0 pressed
+INFO:2018-09-15 23:09:26,796 a controller button was pressed
+INFO:2018-09-15 23:09:26,796 Controller button 1 pressed
+INFO:2018-09-15 23:09:30,097 a controller button was pressed
+INFO:2018-09-15 23:09:30,097 Controller button 3 pressed
