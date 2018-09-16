@@ -20,8 +20,12 @@ class App:
                 self.size = self.weight, self.height = 1400, 600
                 self.image_count = 0
                 self.clock = None
+
+                self.text_surface1_flag = False 
                 self.text_surface1 = None
+                self.text_surface2_flag = False
                 self.text_surface2 = None
+                self.text_surface3_flag = False
                 self.text_surface3 = None
                 
 
@@ -60,12 +64,15 @@ class App:
                         if self.joystick.get_button(0):
                             logging.info('Controller button 0 pressed')
                             self.text_surface1 = theData.font.render('Controller button 0 pressed', False, (0, 0, 255))
+                            self.text_surface1_flag = not self.text_surface1_flag
                         elif self.joystick.get_button(1):
                             logging.info('Controller button 1 pressed')
                             self.text_surface2 = theData.font.render('Controller button 1 pressed', False, (255, 0, 0))
+                            self.text_surface2_flag = not self.text_surface2_flag
                         elif self.joystick.get_button(2):
                             logging.info('Controller button 2 pressed' )
                             self.text_surface3 = theData.font.render('Controller button 2 pressed', False, (0, 255, 0))
+                            self.text_surface3_flag = not self.text_surface3_flag
                         elif self.joystick.get_button(3):
                             logging.info('Controller button 3 pressed')
                         elif self.joystick.get_button(4):
@@ -87,11 +94,11 @@ class App:
                 black = 0, 0, 0
                 self._display_surf.fill(black)
                 self._display_surf.blit(theViewer.image, (theViewer.x, theViewer.y))
-                if self.text_surface1 is not None:
+                if self.text_surface1_flag == True:
                     self._display_surf.blit(self.text_surface1, (50, 40))
-                if self.text_surface2 is not None:
+                if self.text_surface2_flag == True:
                     self._display_surf.blit(self.text_surface2, (50, 70))
-                if self.text_surface3 is not None:
+                if self.text_surface3_flag == True:
                     self._display_surf.blit(self.text_surface3, (50, 110))
                 pygame.display.flip()
 

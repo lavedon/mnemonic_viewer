@@ -1,99 +1,593 @@
-DEBUG:2018-09-15 23:08:49,272 class Data called.
-INFO:2018-09-15 23:08:56,750 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
-INFO:2018-09-15 23:08:56,817 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
-INFO:2018-09-15 23:08:56,868 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
-INFO:2018-09-15 23:08:56,910 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
-INFO:2018-09-15 23:08:56,974 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
-INFO:2018-09-15 23:08:57,008 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
-INFO:2018-09-15 23:08:57,041 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
-INFO:2018-09-15 23:08:57,086 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
-INFO:2018-09-15 23:08:57,124 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
-INFO:2018-09-15 23:08:57,180 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
-INFO:2018-09-15 23:08:57,214 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
-INFO:2018-09-15 23:08:57,256 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
-INFO:2018-09-15 23:08:57,299 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
-INFO:2018-09-15 23:08:57,341 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
-INFO:2018-09-15 23:08:57,386 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
-INFO:2018-09-15 23:08:57,431 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
-INFO:2018-09-15 23:08:57,466 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
-INFO:2018-09-15 23:08:57,510 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
-INFO:2018-09-15 23:08:57,554 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
-INFO:2018-09-15 23:08:57,599 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
-INFO:2018-09-15 23:08:57,646 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
-INFO:2018-09-15 23:08:57,684 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
-INFO:2018-09-15 23:08:57,725 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
-INFO:2018-09-15 23:08:57,769 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
-INFO:2018-09-15 23:08:57,816 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
-INFO:2018-09-15 23:08:57,857 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
-INFO:2018-09-15 23:08:57,899 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
-INFO:2018-09-15 23:08:57,940 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
-INFO:2018-09-15 23:08:57,981 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
-INFO:2018-09-15 23:08:58,020 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
-INFO:2018-09-15 23:08:58,064 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
-INFO:2018-09-15 23:08:58,108 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
-INFO:2018-09-15 23:08:58,152 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
-INFO:2018-09-15 23:08:58,201 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
-INFO:2018-09-15 23:08:58,249 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
-INFO:2018-09-15 23:08:58,294 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
-INFO:2018-09-15 23:08:58,340 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
-INFO:2018-09-15 23:08:58,380 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
-INFO:2018-09-15 23:08:58,417 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
-INFO:2018-09-15 23:08:58,466 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
-INFO:2018-09-15 23:08:58,511 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
-INFO:2018-09-15 23:08:58,558 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
-INFO:2018-09-15 23:08:58,603 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
-INFO:2018-09-15 23:08:58,650 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
-INFO:2018-09-15 23:08:58,702 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
-INFO:2018-09-15 23:08:58,749 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
-INFO:2018-09-15 23:08:58,801 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
-INFO:2018-09-15 23:08:58,824 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
-INFO:2018-09-15 23:08:58,850 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
-INFO:2018-09-15 23:08:58,880 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
-INFO:2018-09-15 23:08:58,907 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
-INFO:2018-09-15 23:08:58,934 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
-INFO:2018-09-15 23:08:58,957 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
-INFO:2018-09-15 23:08:58,985 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
-INFO:2018-09-15 23:08:59,006 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
-INFO:2018-09-15 23:08:59,051 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
-INFO:2018-09-15 23:08:59,088 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
-INFO:2018-09-15 23:08:59,130 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
-INFO:2018-09-15 23:08:59,165 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
-INFO:2018-09-15 23:08:59,206 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
-WARNING:2018-09-15 23:08:59,206 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-INFO:2018-09-15 23:08:59,542 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
-DEBUG:2018-09-15 23:08:59,542 class App called
-INFO:2018-09-15 23:08:59,609 joystick initialized
-INFO:2018-09-15 23:08:59,609 pygame initialized
-INFO:2018-09-15 23:08:59,617 theViewer created.
-INFO:2018-09-15 23:08:59,617 <__main__.Viewer object at 0x0000019ACE443D30> 
-INFO:2018-09-15 23:09:01,439 a controller button was pressed
-INFO:2018-09-15 23:09:01,439 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:01,439 image count now set to 0.  There are 59 total images
-INFO:2018-09-15 23:09:02,351 a controller button was pressed
-INFO:2018-09-15 23:09:02,351 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:02,351 image count now set to 1.  There are 59 total images
-INFO:2018-09-15 23:09:02,768 a controller button was pressed
-INFO:2018-09-15 23:09:02,768 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:02,768 image count now set to 2.  There are 59 total images
-INFO:2018-09-15 23:09:03,072 a controller button was pressed
-INFO:2018-09-15 23:09:03,072 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:03,072 image count now set to 3.  There are 59 total images
-INFO:2018-09-15 23:09:03,415 a controller button was pressed
-INFO:2018-09-15 23:09:03,415 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:03,415 image count now set to 4.  There are 59 total images
-INFO:2018-09-15 23:09:03,834 a controller button was pressed
-INFO:2018-09-15 23:09:03,834 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:03,834 image count now set to 5.  There are 59 total images
-INFO:2018-09-15 23:09:04,634 a controller button was pressed
-INFO:2018-09-15 23:09:04,634 Controller button 5 pressed.
-DEBUG:2018-09-15 23:09:04,634 image count now set to 6.  There are 59 total images
-INFO:2018-09-15 23:09:11,810 a controller button was pressed
-INFO:2018-09-15 23:09:11,810 Controller button 2 pressed
-INFO:2018-09-15 23:09:20,484 a controller button was pressed
-INFO:2018-09-15 23:09:20,484 Controller button 2 pressed
-INFO:2018-09-15 23:09:21,206 a controller button was pressed
-INFO:2018-09-15 23:09:21,206 Controller button 0 pressed
-INFO:2018-09-15 23:09:26,796 a controller button was pressed
-INFO:2018-09-15 23:09:26,796 Controller button 1 pressed
-INFO:2018-09-15 23:09:30,097 a controller button was pressed
-INFO:2018-09-15 23:09:30,097 Controller button 3 pressed
+DEBUG:2018-09-15 23:18:25,725 class Data called.
+INFO:2018-09-15 23:18:27,421 C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX folder selected
+INFO:2018-09-15 23:18:27,480 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/1.png to self.image_list
+INFO:2018-09-15 23:18:27,529 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/2.png to self.image_list
+INFO:2018-09-15 23:18:27,566 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/3.png to self.image_list
+INFO:2018-09-15 23:18:27,623 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/4.png to self.image_list
+INFO:2018-09-15 23:18:27,655 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/5.png to self.image_list
+INFO:2018-09-15 23:18:27,687 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/6.png to self.image_list
+INFO:2018-09-15 23:18:27,731 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/7.png to self.image_list
+INFO:2018-09-15 23:18:27,769 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/8.png to self.image_list
+INFO:2018-09-15 23:18:27,821 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/9.png to self.image_list
+INFO:2018-09-15 23:18:27,854 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/10.png to self.image_list
+INFO:2018-09-15 23:18:27,894 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/11.png to self.image_list
+INFO:2018-09-15 23:18:27,936 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/12.png to self.image_list
+INFO:2018-09-15 23:18:27,975 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/13.png to self.image_list
+INFO:2018-09-15 23:18:28,019 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/14.png to self.image_list
+INFO:2018-09-15 23:18:28,063 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/15.png to self.image_list
+INFO:2018-09-15 23:18:28,097 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/16.png to self.image_list
+INFO:2018-09-15 23:18:28,139 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/17.png to self.image_list
+INFO:2018-09-15 23:18:28,176 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/18.png to self.image_list
+INFO:2018-09-15 23:18:28,220 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/19.png to self.image_list
+INFO:2018-09-15 23:18:28,266 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/20.png to self.image_list
+INFO:2018-09-15 23:18:28,303 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/21.png to self.image_list
+INFO:2018-09-15 23:18:28,343 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/22.png to self.image_list
+INFO:2018-09-15 23:18:28,385 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/23.png to self.image_list
+INFO:2018-09-15 23:18:28,432 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/24.png to self.image_list
+INFO:2018-09-15 23:18:28,472 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/25.png to self.image_list
+INFO:2018-09-15 23:18:28,513 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/26.png to self.image_list
+INFO:2018-09-15 23:18:28,553 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/27.png to self.image_list
+INFO:2018-09-15 23:18:28,592 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/28.png to self.image_list
+INFO:2018-09-15 23:18:28,630 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/29.png to self.image_list
+INFO:2018-09-15 23:18:28,674 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/30.png to self.image_list
+INFO:2018-09-15 23:18:28,715 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/31.png to self.image_list
+INFO:2018-09-15 23:18:28,758 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/32.png to self.image_list
+INFO:2018-09-15 23:18:28,806 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/33.png to self.image_list
+INFO:2018-09-15 23:18:28,853 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/34.png to self.image_list
+INFO:2018-09-15 23:18:28,896 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/35.png to self.image_list
+INFO:2018-09-15 23:18:28,942 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/36.png to self.image_list
+INFO:2018-09-15 23:18:28,981 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/37.png to self.image_list
+INFO:2018-09-15 23:18:29,017 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/41.png to self.image_list
+INFO:2018-09-15 23:18:29,064 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/42.png to self.image_list
+INFO:2018-09-15 23:18:29,107 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/43.png to self.image_list
+INFO:2018-09-15 23:18:29,154 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/44.png to self.image_list
+INFO:2018-09-15 23:18:29,197 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/45.png to self.image_list
+INFO:2018-09-15 23:18:29,244 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/46.png to self.image_list
+INFO:2018-09-15 23:18:29,293 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/47.png to self.image_list
+INFO:2018-09-15 23:18:29,339 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/48.png to self.image_list
+INFO:2018-09-15 23:18:29,390 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/49.png to self.image_list
+INFO:2018-09-15 23:18:29,412 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/50.png to self.image_list
+INFO:2018-09-15 23:18:29,437 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/51.png to self.image_list
+INFO:2018-09-15 23:18:29,468 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/52.png to self.image_list
+INFO:2018-09-15 23:18:29,493 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/53.png to self.image_list
+INFO:2018-09-15 23:18:29,519 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/54.png to self.image_list
+INFO:2018-09-15 23:18:29,540 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/55.png to self.image_list
+INFO:2018-09-15 23:18:29,569 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/56.png to self.image_list
+INFO:2018-09-15 23:18:29,589 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/57.png to self.image_list
+INFO:2018-09-15 23:18:29,633 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/58.png to self.image_list
+INFO:2018-09-15 23:18:29,668 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/59.png to self.image_list
+INFO:2018-09-15 23:18:29,710 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/60.png to self.image_list
+INFO:2018-09-15 23:18:29,742 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/61.png to self.image_list
+INFO:2018-09-15 23:18:29,782 adding C:/Users/Luke/Desktop/Memory Palace/Palaces/MATRIX/62.png to self.image_list
+WARNING:2018-09-15 23:18:29,782 image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+INFO:2018-09-15 23:18:29,891 new Viewer class created.  Image list is: [<Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1433x609x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1427x606x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1038x436x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1390x580x32 SW)>, <Surface(1280x552x32 SW)>]
+DEBUG:2018-09-15 23:18:29,891 class App called
+INFO:2018-09-15 23:18:29,956 joystick initialized
+INFO:2018-09-15 23:18:29,956 pygame initialized
+INFO:2018-09-15 23:18:29,964 theViewer created.
+INFO:2018-09-15 23:18:29,965 <__main__.Viewer object at 0x0000011FD6EA4978> 
+INFO:2018-09-15 23:18:31,714 a controller button was pressed
+INFO:2018-09-15 23:18:31,714 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:31,714 image count now set to 0.  There are 59 total images
+INFO:2018-09-15 23:18:32,592 a controller button was pressed
+INFO:2018-09-15 23:18:32,592 Controller button 1 pressed
+INFO:2018-09-15 23:18:35,338 a controller button was pressed
+INFO:2018-09-15 23:18:35,338 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:35,338 image count now set to 1.  There are 59 total images
+INFO:2018-09-15 23:18:44,119 a controller button was pressed
+INFO:2018-09-15 23:18:44,119 Controller button 1 pressed
+INFO:2018-09-15 23:18:45,106 a controller button was pressed
+INFO:2018-09-15 23:18:45,106 Controller button 1 pressed
+INFO:2018-09-15 23:18:45,562 a controller button was pressed
+INFO:2018-09-15 23:18:45,562 Controller button 1 pressed
+INFO:2018-09-15 23:18:45,942 a controller button was pressed
+INFO:2018-09-15 23:18:45,942 Controller button 1 pressed
+INFO:2018-09-15 23:18:46,207 a controller button was pressed
+INFO:2018-09-15 23:18:46,207 Controller button 1 pressed
+INFO:2018-09-15 23:18:46,549 a controller button was pressed
+INFO:2018-09-15 23:18:46,549 Controller button 3 pressed
+INFO:2018-09-15 23:18:47,006 a controller button was pressed
+INFO:2018-09-15 23:18:47,006 Controller button 3 pressed
+INFO:2018-09-15 23:18:47,424 a controller button was pressed
+INFO:2018-09-15 23:18:47,424 Controller button 2 pressed
+INFO:2018-09-15 23:18:47,918 a controller button was pressed
+INFO:2018-09-15 23:18:47,918 Controller button 2 pressed
+INFO:2018-09-15 23:18:48,184 a controller button was pressed
+INFO:2018-09-15 23:18:48,184 Controller button 2 pressed
+INFO:2018-09-15 23:18:48,487 a controller button was pressed
+INFO:2018-09-15 23:18:48,487 Controller button 2 pressed
+INFO:2018-09-15 23:18:48,943 a controller button was pressed
+INFO:2018-09-15 23:18:48,943 Controller button 0 pressed
+INFO:2018-09-15 23:18:49,665 a controller button was pressed
+INFO:2018-09-15 23:18:49,665 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:49,665 image count now set to 2.  There are 59 total images
+INFO:2018-09-15 23:18:50,271 a controller button was pressed
+INFO:2018-09-15 23:18:50,271 Controller button 0 pressed
+INFO:2018-09-15 23:18:50,614 a controller button was pressed
+INFO:2018-09-15 23:18:50,614 Controller button 0 pressed
+INFO:2018-09-15 23:18:51,639 a controller button was pressed
+INFO:2018-09-15 23:18:51,639 Controller button 0 pressed
+INFO:2018-09-15 23:18:52,248 a controller button was pressed
+INFO:2018-09-15 23:18:52,248 Controller button 0 pressed
+INFO:2018-09-15 23:18:53,278 a controller button was pressed
+INFO:2018-09-15 23:18:53,278 Controller button 0 pressed
+INFO:2018-09-15 23:18:53,731 a controller button was pressed
+INFO:2018-09-15 23:18:53,731 Controller button 0 pressed
+INFO:2018-09-15 23:18:54,111 a controller button was pressed
+INFO:2018-09-15 23:18:54,111 Controller button 0 pressed
+INFO:2018-09-15 23:18:54,415 a controller button was pressed
+INFO:2018-09-15 23:18:54,415 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:54,415 image count now set to 3.  There are 59 total images
+INFO:2018-09-15 23:18:54,794 a controller button was pressed
+INFO:2018-09-15 23:18:54,794 Controller button 1 pressed
+INFO:2018-09-15 23:18:55,137 a controller button was pressed
+INFO:2018-09-15 23:18:55,137 Controller button 1 pressed
+INFO:2018-09-15 23:18:55,441 a controller button was pressed
+INFO:2018-09-15 23:18:55,441 Controller button 2 pressed
+INFO:2018-09-15 23:18:55,786 a controller button was pressed
+INFO:2018-09-15 23:18:55,786 Controller button 2 pressed
+INFO:2018-09-15 23:18:56,396 a controller button was pressed
+INFO:2018-09-15 23:18:56,396 Controller button 1 pressed
+INFO:2018-09-15 23:18:56,815 a controller button was pressed
+INFO:2018-09-15 23:18:56,815 Controller button 1 pressed
+INFO:2018-09-15 23:18:57,121 a controller button was pressed
+INFO:2018-09-15 23:18:57,121 Controller button 0 pressed
+INFO:2018-09-15 23:18:57,425 a controller button was pressed
+INFO:2018-09-15 23:18:57,425 Controller button 0 pressed
+INFO:2018-09-15 23:18:57,881 a controller button was pressed
+INFO:2018-09-15 23:18:57,881 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:57,881 image count now set to 4.  There are 59 total images
+INFO:2018-09-15 23:18:58,071 a controller button was pressed
+INFO:2018-09-15 23:18:58,071 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:58,071 image count now set to 5.  There are 59 total images
+INFO:2018-09-15 23:18:58,417 a controller button was pressed
+INFO:2018-09-15 23:18:58,417 Controller button 2 pressed
+INFO:2018-09-15 23:18:58,835 a controller button was pressed
+INFO:2018-09-15 23:18:58,835 Controller button 2 pressed
+INFO:2018-09-15 23:18:59,138 a controller button was pressed
+INFO:2018-09-15 23:18:59,138 Controller button 5 pressed.
+DEBUG:2018-09-15 23:18:59,138 image count now set to 6.  There are 59 total images
+INFO:2018-09-15 23:18:59,519 a controller button was pressed
+INFO:2018-09-15 23:18:59,519 Controller button 2 pressed
+INFO:2018-09-15 23:19:01,038 a controller button was pressed
+INFO:2018-09-15 23:19:01,038 Controller button 2 pressed
+INFO:2018-09-15 23:19:01,912 a controller button was pressed
+INFO:2018-09-15 23:19:01,912 Controller button 2 pressed
+INFO:2018-09-15 23:19:02,824 a controller button was pressed
+INFO:2018-09-15 23:19:02,824 Controller button 2 pressed
+INFO:2018-09-15 23:19:03,129 a controller button was pressed
+INFO:2018-09-15 23:19:03,129 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:03,129 image count now set to 7.  There are 59 total images
+INFO:2018-09-15 23:19:03,394 a controller button was pressed
+INFO:2018-09-15 23:19:03,394 Controller button 2 pressed
+INFO:2018-09-15 23:19:03,851 a controller button was pressed
+INFO:2018-09-15 23:19:03,851 Controller button 2 pressed
+INFO:2018-09-15 23:19:04,155 a controller button was pressed
+INFO:2018-09-15 23:19:04,155 Controller button 1 pressed
+INFO:2018-09-15 23:19:04,916 a controller button was pressed
+INFO:2018-09-15 23:19:04,916 Controller button 1 pressed
+INFO:2018-09-15 23:19:05,374 a controller button was pressed
+INFO:2018-09-15 23:19:05,374 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:05,374 image count now set to 8.  There are 59 total images
+INFO:2018-09-15 23:19:05,643 a controller button was pressed
+INFO:2018-09-15 23:19:05,643 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:05,643 image count now set to 9.  There are 59 total images
+INFO:2018-09-15 23:19:05,908 a controller button was pressed
+INFO:2018-09-15 23:19:05,908 Controller button 2 pressed
+INFO:2018-09-15 23:19:06,972 a controller button was pressed
+INFO:2018-09-15 23:19:06,972 Controller button 2 pressed
+INFO:2018-09-15 23:19:07,238 a controller button was pressed
+INFO:2018-09-15 23:19:07,238 Controller button 2 pressed
+INFO:2018-09-15 23:19:08,267 a controller button was pressed
+INFO:2018-09-15 23:19:08,267 Controller button 2 pressed
+INFO:2018-09-15 23:19:09,105 a controller button was pressed
+INFO:2018-09-15 23:19:09,105 Controller button 2 pressed
+INFO:2018-09-15 23:19:10,093 a controller button was pressed
+INFO:2018-09-15 23:19:10,093 Controller button 2 pressed
+INFO:2018-09-15 23:19:10,775 a controller button was pressed
+INFO:2018-09-15 23:19:10,775 Controller button 3 pressed
+INFO:2018-09-15 23:19:11,230 a controller button was pressed
+INFO:2018-09-15 23:19:11,230 Controller button 1 pressed
+INFO:2018-09-15 23:19:11,725 a controller button was pressed
+INFO:2018-09-15 23:19:11,725 Controller button 1 pressed
+INFO:2018-09-15 23:19:13,055 a controller button was pressed
+INFO:2018-09-15 23:19:13,055 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:13,055 image count now set to 10.  There are 59 total images
+INFO:2018-09-15 23:19:13,395 a controller button was pressed
+INFO:2018-09-15 23:19:13,395 Controller button 2 pressed
+INFO:2018-09-15 23:19:14,003 a controller button was pressed
+INFO:2018-09-15 23:19:14,003 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:14,003 image count now set to 11.  There are 59 total images
+INFO:2018-09-15 23:19:14,877 a controller button was pressed
+INFO:2018-09-15 23:19:14,877 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:14,877 image count now set to 12.  There are 59 total images
+INFO:2018-09-15 23:19:15,143 a controller button was pressed
+INFO:2018-09-15 23:19:15,143 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:15,143 image count now set to 13.  There are 59 total images
+INFO:2018-09-15 23:19:15,333 a controller button was pressed
+INFO:2018-09-15 23:19:15,333 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:15,333 image count now set to 14.  There are 59 total images
+INFO:2018-09-15 23:19:15,561 a controller button was pressed
+INFO:2018-09-15 23:19:15,561 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:15,561 image count now set to 15.  There are 59 total images
+INFO:2018-09-15 23:19:15,751 a controller button was pressed
+INFO:2018-09-15 23:19:15,751 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:15,751 image count now set to 16.  There are 59 total images
+INFO:2018-09-15 23:19:15,941 a controller button was pressed
+INFO:2018-09-15 23:19:15,941 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:15,941 image count now set to 17.  There are 59 total images
+INFO:2018-09-15 23:19:16,131 a controller button was pressed
+INFO:2018-09-15 23:19:16,131 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:16,131 image count now set to 18.  There are 59 total images
+INFO:2018-09-15 23:19:16,359 a controller button was pressed
+INFO:2018-09-15 23:19:16,359 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:16,359 image count now set to 19.  There are 59 total images
+INFO:2018-09-15 23:19:16,549 a controller button was pressed
+INFO:2018-09-15 23:19:16,549 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:16,549 image count now set to 20.  There are 59 total images
+INFO:2018-09-15 23:19:16,738 a controller button was pressed
+INFO:2018-09-15 23:19:16,738 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:16,738 image count now set to 21.  There are 59 total images
+INFO:2018-09-15 23:19:17,158 a controller button was pressed
+INFO:2018-09-15 23:19:17,158 Controller button 2 pressed
+INFO:2018-09-15 23:19:17,387 a controller button was pressed
+INFO:2018-09-15 23:19:17,387 Controller button 2 pressed
+INFO:2018-09-15 23:19:17,691 a controller button was pressed
+INFO:2018-09-15 23:19:17,691 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:17,691 image count now set to 22.  There are 59 total images
+INFO:2018-09-15 23:19:18,033 a controller button was pressed
+INFO:2018-09-15 23:19:18,033 Controller button 2 pressed
+INFO:2018-09-15 23:19:18,374 a controller button was pressed
+INFO:2018-09-15 23:19:18,374 Controller button 2 pressed
+INFO:2018-09-15 23:19:18,830 a controller button was pressed
+INFO:2018-09-15 23:19:18,830 Controller button 2 pressed
+INFO:2018-09-15 23:19:19,363 a controller button was pressed
+INFO:2018-09-15 23:19:19,363 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:19,363 image count now set to 23.  There are 59 total images
+INFO:2018-09-15 23:19:19,553 a controller button was pressed
+INFO:2018-09-15 23:19:19,553 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:19,553 image count now set to 24.  There are 59 total images
+INFO:2018-09-15 23:19:19,591 a controller button was pressed
+INFO:2018-09-15 23:19:19,591 Controller button 2 pressed
+INFO:2018-09-15 23:19:19,743 a controller button was pressed
+INFO:2018-09-15 23:19:19,743 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:19,743 image count now set to 25.  There are 59 total images
+INFO:2018-09-15 23:19:19,894 a controller button was pressed
+INFO:2018-09-15 23:19:19,894 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:19,894 image count now set to 26.  There are 59 total images
+INFO:2018-09-15 23:19:20,084 a controller button was pressed
+INFO:2018-09-15 23:19:20,084 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,084 image count now set to 27.  There are 59 total images
+INFO:2018-09-15 23:19:20,236 a controller button was pressed
+INFO:2018-09-15 23:19:20,236 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,236 image count now set to 28.  There are 59 total images
+INFO:2018-09-15 23:19:20,426 a controller button was pressed
+INFO:2018-09-15 23:19:20,426 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,426 image count now set to 29.  There are 59 total images
+INFO:2018-09-15 23:19:20,578 a controller button was pressed
+INFO:2018-09-15 23:19:20,578 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,578 image count now set to 30.  There are 59 total images
+INFO:2018-09-15 23:19:20,768 a controller button was pressed
+INFO:2018-09-15 23:19:20,768 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,768 image count now set to 31.  There are 59 total images
+INFO:2018-09-15 23:19:20,996 a controller button was pressed
+INFO:2018-09-15 23:19:20,996 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:20,996 image count now set to 32.  There are 59 total images
+INFO:2018-09-15 23:19:21,225 a controller button was pressed
+INFO:2018-09-15 23:19:21,225 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:21,225 image count now set to 33.  There are 59 total images
+INFO:2018-09-15 23:19:21,377 a controller button was pressed
+INFO:2018-09-15 23:19:21,377 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:21,377 image count now set to 34.  There are 59 total images
+INFO:2018-09-15 23:19:21,567 a controller button was pressed
+INFO:2018-09-15 23:19:21,567 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:21,567 image count now set to 35.  There are 59 total images
+INFO:2018-09-15 23:19:21,719 a controller button was pressed
+INFO:2018-09-15 23:19:21,719 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:21,719 image count now set to 36.  There are 59 total images
+INFO:2018-09-15 23:19:21,909 a controller button was pressed
+INFO:2018-09-15 23:19:21,909 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:21,909 image count now set to 37.  There are 59 total images
+INFO:2018-09-15 23:19:22,062 a controller button was pressed
+INFO:2018-09-15 23:19:22,062 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,062 image count now set to 38.  There are 59 total images
+INFO:2018-09-15 23:19:22,214 a controller button was pressed
+INFO:2018-09-15 23:19:22,214 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,214 image count now set to 39.  There are 59 total images
+INFO:2018-09-15 23:19:22,404 a controller button was pressed
+INFO:2018-09-15 23:19:22,404 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,404 image count now set to 40.  There are 59 total images
+INFO:2018-09-15 23:19:22,556 a controller button was pressed
+INFO:2018-09-15 23:19:22,556 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,556 image count now set to 41.  There are 59 total images
+INFO:2018-09-15 23:19:22,745 a controller button was pressed
+INFO:2018-09-15 23:19:22,745 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,745 image count now set to 42.  There are 59 total images
+INFO:2018-09-15 23:19:22,936 a controller button was pressed
+INFO:2018-09-15 23:19:22,936 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:22,936 image count now set to 43.  There are 59 total images
+INFO:2018-09-15 23:19:23,355 a controller button was pressed
+INFO:2018-09-15 23:19:23,355 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:23,355 image count now set to 44.  There are 59 total images
+INFO:2018-09-15 23:19:23,774 a controller button was pressed
+INFO:2018-09-15 23:19:23,774 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:23,774 image count now set to 45.  There are 59 total images
+INFO:2018-09-15 23:19:24,000 a controller button was pressed
+INFO:2018-09-15 23:19:24,000 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,000 image count now set to 46.  There are 59 total images
+INFO:2018-09-15 23:19:24,190 a controller button was pressed
+INFO:2018-09-15 23:19:24,190 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,190 image count now set to 47.  There are 59 total images
+INFO:2018-09-15 23:19:24,342 a controller button was pressed
+INFO:2018-09-15 23:19:24,342 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,342 image count now set to 48.  There are 59 total images
+INFO:2018-09-15 23:19:24,533 a controller button was pressed
+INFO:2018-09-15 23:19:24,533 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,533 image count now set to 49.  There are 59 total images
+INFO:2018-09-15 23:19:24,646 a controller button was pressed
+INFO:2018-09-15 23:19:24,646 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,646 image count now set to 50.  There are 59 total images
+INFO:2018-09-15 23:19:24,836 a controller button was pressed
+INFO:2018-09-15 23:19:24,836 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:24,836 image count now set to 51.  There are 59 total images
+INFO:2018-09-15 23:19:25,025 a controller button was pressed
+INFO:2018-09-15 23:19:25,025 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:25,025 image count now set to 52.  There are 59 total images
+INFO:2018-09-15 23:19:25,214 a controller button was pressed
+INFO:2018-09-15 23:19:25,214 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:25,214 image count now set to 53.  There are 59 total images
+INFO:2018-09-15 23:19:25,366 a controller button was pressed
+INFO:2018-09-15 23:19:25,366 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:25,366 image count now set to 54.  There are 59 total images
+INFO:2018-09-15 23:19:25,556 a controller button was pressed
+INFO:2018-09-15 23:19:25,556 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:25,556 image count now set to 55.  There are 59 total images
+INFO:2018-09-15 23:19:26,279 a controller button was pressed
+INFO:2018-09-15 23:19:26,279 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:26,279 image count now set to 56.  There are 59 total images
+INFO:2018-09-15 23:19:26,583 a controller button was pressed
+INFO:2018-09-15 23:19:26,583 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:26,583 image count now set to 57.  There are 59 total images
+INFO:2018-09-15 23:19:26,963 a controller button was pressed
+INFO:2018-09-15 23:19:26,963 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:26,963 image count now set to 58.  There are 59 total images
+INFO:2018-09-15 23:19:26,963 Reached the final image.
+INFO:2018-09-15 23:19:27,422 a controller button was pressed
+INFO:2018-09-15 23:19:27,422 Controller button 0 pressed
+INFO:2018-09-15 23:19:27,802 a controller button was pressed
+INFO:2018-09-15 23:19:27,802 Controller button 1 pressed
+INFO:2018-09-15 23:19:28,600 a controller button was pressed
+INFO:2018-09-15 23:19:28,600 Controller button 1 pressed
+INFO:2018-09-15 23:19:28,867 a controller button was pressed
+INFO:2018-09-15 23:19:28,867 Controller button 0 pressed
+INFO:2018-09-15 23:19:29,057 a controller button was pressed
+INFO:2018-09-15 23:19:29,057 Controller button 2 pressed
+INFO:2018-09-15 23:19:29,627 a controller button was pressed
+INFO:2018-09-15 23:19:29,627 Controller button 4 pressed
+INFO:2018-09-15 23:19:29,892 a controller button was pressed
+INFO:2018-09-15 23:19:29,892 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,083 a controller button was pressed
+INFO:2018-09-15 23:19:30,083 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,235 a controller button was pressed
+INFO:2018-09-15 23:19:30,235 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,387 a controller button was pressed
+INFO:2018-09-15 23:19:30,387 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,539 a controller button was pressed
+INFO:2018-09-15 23:19:30,539 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,690 a controller button was pressed
+INFO:2018-09-15 23:19:30,690 Controller button 4 pressed
+INFO:2018-09-15 23:19:30,879 a controller button was pressed
+INFO:2018-09-15 23:19:30,879 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,031 a controller button was pressed
+INFO:2018-09-15 23:19:31,031 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,221 a controller button was pressed
+INFO:2018-09-15 23:19:31,221 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,373 a controller button was pressed
+INFO:2018-09-15 23:19:31,373 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,563 a controller button was pressed
+INFO:2018-09-15 23:19:31,563 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,753 a controller button was pressed
+INFO:2018-09-15 23:19:31,753 Controller button 4 pressed
+INFO:2018-09-15 23:19:31,905 a controller button was pressed
+INFO:2018-09-15 23:19:31,905 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,057 a controller button was pressed
+INFO:2018-09-15 23:19:32,057 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,247 a controller button was pressed
+INFO:2018-09-15 23:19:32,247 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,401 a controller button was pressed
+INFO:2018-09-15 23:19:32,401 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,553 a controller button was pressed
+INFO:2018-09-15 23:19:32,553 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,742 a controller button was pressed
+INFO:2018-09-15 23:19:32,742 Controller button 4 pressed
+INFO:2018-09-15 23:19:32,894 a controller button was pressed
+INFO:2018-09-15 23:19:32,894 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,084 a controller button was pressed
+INFO:2018-09-15 23:19:33,084 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,236 a controller button was pressed
+INFO:2018-09-15 23:19:33,236 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,388 a controller button was pressed
+INFO:2018-09-15 23:19:33,388 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,540 a controller button was pressed
+INFO:2018-09-15 23:19:33,540 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,693 a controller button was pressed
+INFO:2018-09-15 23:19:33,693 Controller button 4 pressed
+INFO:2018-09-15 23:19:33,885 a controller button was pressed
+INFO:2018-09-15 23:19:33,885 Controller button 4 pressed
+INFO:2018-09-15 23:19:34,037 a controller button was pressed
+INFO:2018-09-15 23:19:34,037 Controller button 4 pressed
+INFO:2018-09-15 23:19:44,482 a controller button was pressed
+INFO:2018-09-15 23:19:44,482 Controller button 4 pressed
+INFO:2018-09-15 23:19:44,823 a controller button was pressed
+INFO:2018-09-15 23:19:44,823 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,127 a controller button was pressed
+INFO:2018-09-15 23:19:45,127 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,316 a controller button was pressed
+INFO:2018-09-15 23:19:45,316 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,507 a controller button was pressed
+INFO:2018-09-15 23:19:45,507 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,659 a controller button was pressed
+INFO:2018-09-15 23:19:45,659 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,773 a controller button was pressed
+INFO:2018-09-15 23:19:45,773 Controller button 4 pressed
+INFO:2018-09-15 23:19:45,925 a controller button was pressed
+INFO:2018-09-15 23:19:45,925 Controller button 4 pressed
+INFO:2018-09-15 23:19:46,229 a controller button was pressed
+INFO:2018-09-15 23:19:46,229 Controller button 4 pressed
+INFO:2018-09-15 23:19:46,381 a controller button was pressed
+INFO:2018-09-15 23:19:46,381 Controller button 4 pressed
+INFO:2018-09-15 23:19:46,532 a controller button was pressed
+INFO:2018-09-15 23:19:46,532 Controller button 4 pressed
+INFO:2018-09-15 23:19:46,874 a controller button was pressed
+INFO:2018-09-15 23:19:46,874 Controller button 4 pressed
+INFO:2018-09-15 23:19:46,989 a controller button was pressed
+INFO:2018-09-15 23:19:46,989 Controller button 4 pressed
+INFO:2018-09-15 23:19:47,330 a controller button was pressed
+INFO:2018-09-15 23:19:47,330 Controller button 4 pressed
+INFO:2018-09-15 23:19:47,520 a controller button was pressed
+INFO:2018-09-15 23:19:47,520 Controller button 4 pressed
+INFO:2018-09-15 23:19:47,712 a controller button was pressed
+INFO:2018-09-15 23:19:47,712 Controller button 4 pressed
+INFO:2018-09-15 23:19:47,904 a controller button was pressed
+INFO:2018-09-15 23:19:47,904 Controller button 4 pressed
+INFO:2018-09-15 23:19:48,095 a controller button was pressed
+INFO:2018-09-15 23:19:48,095 Controller button 4 pressed
+INFO:2018-09-15 23:19:48,285 a controller button was pressed
+INFO:2018-09-15 23:19:48,285 Controller button 4 pressed
+INFO:2018-09-15 23:19:48,474 a controller button was pressed
+INFO:2018-09-15 23:19:48,474 Controller button 4 pressed
+INFO:2018-09-15 23:19:48,664 a controller button was pressed
+INFO:2018-09-15 23:19:48,664 Controller button 4 pressed
+INFO:2018-09-15 23:19:48,816 a controller button was pressed
+INFO:2018-09-15 23:19:48,816 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,006 a controller button was pressed
+INFO:2018-09-15 23:19:49,006 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,195 a controller button was pressed
+INFO:2018-09-15 23:19:49,195 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,385 a controller button was pressed
+INFO:2018-09-15 23:19:49,385 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,575 a controller button was pressed
+INFO:2018-09-15 23:19:49,575 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,727 a controller button was pressed
+INFO:2018-09-15 23:19:49,727 Controller button 4 pressed
+INFO:2018-09-15 23:19:49,917 a controller button was pressed
+INFO:2018-09-15 23:19:49,917 Controller button 4 pressed
+INFO:2018-09-15 23:19:50,107 a controller button was pressed
+INFO:2018-09-15 23:19:50,107 Controller button 4 pressed
+INFO:2018-09-15 23:19:50,297 a controller button was pressed
+INFO:2018-09-15 23:19:50,297 Controller button 4 pressed
+INFO:2018-09-15 23:19:50,601 a controller button was pressed
+INFO:2018-09-15 23:19:50,601 Controller button 4 pressed
+INFO:2018-09-15 23:19:51,095 a controller button was pressed
+INFO:2018-09-15 23:19:51,095 Controller button 4 pressed
+INFO:2018-09-15 23:19:52,389 a controller button was pressed
+INFO:2018-09-15 23:19:52,389 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:52,389 image count now set to 0.  There are 59 total images
+INFO:2018-09-15 23:19:52,731 a controller button was pressed
+INFO:2018-09-15 23:19:52,731 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:52,731 image count now set to 1.  There are 59 total images
+INFO:2018-09-15 23:19:52,959 a controller button was pressed
+INFO:2018-09-15 23:19:52,959 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:52,959 image count now set to 2.  There are 59 total images
+INFO:2018-09-15 23:19:53,186 a controller button was pressed
+INFO:2018-09-15 23:19:53,186 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:53,186 image count now set to 3.  There are 59 total images
+INFO:2018-09-15 23:19:53,376 a controller button was pressed
+INFO:2018-09-15 23:19:53,376 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:53,376 image count now set to 4.  There are 59 total images
+INFO:2018-09-15 23:19:53,566 a controller button was pressed
+INFO:2018-09-15 23:19:53,566 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:53,566 image count now set to 5.  There are 59 total images
+INFO:2018-09-15 23:19:53,756 a controller button was pressed
+INFO:2018-09-15 23:19:53,756 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:53,756 image count now set to 6.  There are 59 total images
+INFO:2018-09-15 23:19:53,984 a controller button was pressed
+INFO:2018-09-15 23:19:53,984 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:53,984 image count now set to 7.  There are 59 total images
+INFO:2018-09-15 23:19:54,174 a controller button was pressed
+INFO:2018-09-15 23:19:54,174 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:54,174 image count now set to 8.  There are 59 total images
+INFO:2018-09-15 23:19:54,744 a controller button was pressed
+INFO:2018-09-15 23:19:54,744 Controller button 5 pressed.
+DEBUG:2018-09-15 23:19:54,744 image count now set to 9.  There are 59 total images
+INFO:2018-09-15 23:19:55,885 a controller button was pressed
+INFO:2018-09-15 23:19:55,885 Controller button 3 pressed
+INFO:2018-09-15 23:19:56,342 a controller button was pressed
+INFO:2018-09-15 23:19:56,342 Controller button 1 pressed
+INFO:2018-09-15 23:19:56,838 a controller button was pressed
+INFO:2018-09-15 23:19:56,838 Controller button 0 pressed
+INFO:2018-09-15 23:19:57,295 a controller button was pressed
+INFO:2018-09-15 23:19:57,295 Controller button 2 pressed
+INFO:2018-09-15 23:19:58,207 a controller button was pressed
+INFO:2018-09-15 23:19:58,207 Controller button 1 pressed
+INFO:2018-09-15 23:19:58,664 a controller button was pressed
+INFO:2018-09-15 23:19:58,664 Controller button 0 pressed
+INFO:2018-09-15 23:19:59,121 a controller button was pressed
+INFO:2018-09-15 23:19:59,121 Controller button 2 pressed
+INFO:2018-09-15 23:19:59,542 a controller button was pressed
+INFO:2018-09-15 23:19:59,542 Controller button 1 pressed
+INFO:2018-09-15 23:19:59,922 a controller button was pressed
+INFO:2018-09-15 23:19:59,922 Controller button 0 pressed
+INFO:2018-09-15 23:20:00,264 a controller button was pressed
+INFO:2018-09-15 23:20:00,264 Controller button 2 pressed
+INFO:2018-09-15 23:20:00,951 a controller button was pressed
+INFO:2018-09-15 23:20:00,951 Controller button 1 pressed
+INFO:2018-09-15 23:20:01,294 a controller button was pressed
+INFO:2018-09-15 23:20:01,294 Controller button 2 pressed
+INFO:2018-09-15 23:20:01,598 a controller button was pressed
+INFO:2018-09-15 23:20:01,598 Controller button 0 pressed
+INFO:2018-09-15 23:20:01,980 a controller button was pressed
+INFO:2018-09-15 23:20:01,980 Controller button 2 pressed
+INFO:2018-09-15 23:20:02,360 a controller button was pressed
+INFO:2018-09-15 23:20:02,360 Controller button 2 pressed
+INFO:2018-09-15 23:20:02,627 a controller button was pressed
+INFO:2018-09-15 23:20:02,627 Controller button 0 pressed
+INFO:2018-09-15 23:20:02,970 a controller button was pressed
+INFO:2018-09-15 23:20:02,970 Controller button 1 pressed
+INFO:2018-09-15 23:20:03,617 a controller button was pressed
+INFO:2018-09-15 23:20:03,617 Controller button 3 pressed
+INFO:2018-09-15 23:20:04,337 a controller button was pressed
+INFO:2018-09-15 23:20:04,337 Controller button 2 pressed
+INFO:2018-09-15 23:20:05,061 a controller button was pressed
+INFO:2018-09-15 23:20:05,061 Controller button 1 pressed
+INFO:2018-09-15 23:20:05,365 a controller button was pressed
+INFO:2018-09-15 23:20:05,365 Controller button 2 pressed
+INFO:2018-09-15 23:20:05,669 a controller button was pressed
+INFO:2018-09-15 23:20:05,669 Controller button 0 pressed
+INFO:2018-09-15 23:20:06,656 a controller button was pressed
+INFO:2018-09-15 23:20:06,656 Controller button 5 pressed.
+DEBUG:2018-09-15 23:20:06,656 image count now set to 10.  There are 59 total images
+INFO:2018-09-15 23:20:07,112 a controller button was pressed
+INFO:2018-09-15 23:20:07,112 Controller button 1 pressed
+INFO:2018-09-15 23:20:07,568 a controller button was pressed
+INFO:2018-09-15 23:20:07,568 Controller button 2 pressed
+INFO:2018-09-15 23:20:07,872 a controller button was pressed
+INFO:2018-09-15 23:20:07,872 Controller button 0 pressed
+INFO:2018-09-15 23:20:08,902 a controller button was pressed
+INFO:2018-09-15 23:20:08,902 Controller button 5 pressed.
+DEBUG:2018-09-15 23:20:08,902 image count now set to 11.  There are 59 total images
+INFO:2018-09-15 23:20:09,206 a controller button was pressed
+INFO:2018-09-15 23:20:09,206 Controller button 0 pressed
+INFO:2018-09-15 23:20:09,624 a controller button was pressed
+INFO:2018-09-15 23:20:09,624 Controller button 2 pressed
+INFO:2018-09-15 23:20:09,889 a controller button was pressed
+INFO:2018-09-15 23:20:09,889 Controller button 1 pressed
+INFO:2018-09-15 23:20:11,487 a controller button was pressed
+INFO:2018-09-15 23:20:11,487 Controller button 5 pressed.
+DEBUG:2018-09-15 23:20:11,487 image count now set to 12.  There are 59 total images
+INFO:2018-09-15 23:20:12,209 a controller button was pressed
+INFO:2018-09-15 23:20:12,209 Controller button 0 pressed
+INFO:2018-09-15 23:20:12,284 a controller button was pressed
+INFO:2018-09-15 23:20:12,284 Controller button 0 pressed
+INFO:2018-09-15 23:20:12,549 a controller button was pressed
+INFO:2018-09-15 23:20:12,549 Controller button 1 pressed
+INFO:2018-09-15 23:20:13,044 a controller button was pressed
+INFO:2018-09-15 23:20:13,044 Controller button 0 pressed
+INFO:2018-09-15 23:20:13,422 a controller button was pressed
+INFO:2018-09-15 23:20:13,422 Controller button 1 pressed
+INFO:2018-09-15 23:20:13,802 a controller button was pressed
+INFO:2018-09-15 23:20:13,802 Controller button 2 pressed
+INFO:2018-09-15 23:20:14,105 a controller button was pressed
+INFO:2018-09-15 23:20:14,105 Controller button 0 pressed
+INFO:2018-09-15 23:20:14,523 a controller button was pressed
+INFO:2018-09-15 23:20:14,523 Controller button 2 pressed
