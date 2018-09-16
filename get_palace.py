@@ -10,6 +10,12 @@ class Memory_Palace:
         self.mnemonics = palace.col_values(3)
         self.image_files = palace.col_values(4)
 
+        #remove header
+        del self.loci[0]
+        del self.facts[0]
+        del self.mnemonics[0]
+        del self.image_files[0]
+
 def get_palace(sheet_select):
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
