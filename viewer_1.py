@@ -5,10 +5,9 @@ logging.basicConfig(filename='viewer.log', filemode='w', format='%(levelname)s:%
 
 import pygame
 from pygame.locals import *
-from tkinter import filedialog
-from tkinter import *
 import os
 import fnmatch
+import get_palace 
 
 
 class App:
@@ -28,6 +27,9 @@ class App:
                 self.text_surface3_flag = False
                 self.text_surface3 = None
                 
+                self.select_which = 0
+                self.select_menu = None
+                self.palaces = ["Sales", "History", "Coding"]
 
         def on_init(self):
                 pygame.init()
@@ -83,15 +85,24 @@ class App:
                             theViewer.next_image()
                         elif self.joystick.get_button(6):
                             logging.info('Controller button 6 pressed.')
-                            theData.browse_folder()
-                            theData.get_images()
+                            if self.select_which < 3: 
+                                self.select_menu = theData.font.render(self.palaces[self.select_which], False, (0, 0, 0), (255, 255, 255)) 
+                                self.select_which += 1
+                                logging.info('Select screen set to %s', self.select_which)
+                            else:
+                                self.select_which = 0
+                                logging.info('Select screen set to %s', self.select_which)
+
                         elif self.joystick.get_button(7):
                             logging.info('Controller button 7 pressed.')
+                            theData.browse_folder()
+                            theData.get_images()
 
         def on_loop(self):
                 pass
         def on_render(self):
                 black = 0, 0, 0
+
                 self._display_surf.fill(black)
                 self._display_surf.blit(theViewer.image, (theViewer.x, theViewer.y))
                 if self.text_surface1_flag == True:
@@ -100,6 +111,9 @@ class App:
                     self._display_surf.blit(self.text_surface2, (50, 70))
                 if self.text_surface3_flag == True:
                     self._display_surf.blit(self.text_surface3, (50, 110))
+                if self.select_which > 0:
+                    self._display_surf.blit(self.select_menu, (250, 250))
+
                 pygame.display.flip()
 
         def on_cleanup(self):
@@ -123,12 +137,26 @@ class Data:
         def __init__(self):
                 logging.debug('class Data called.')
                 self.folder = None 
-                self.image_list = []
-                self.browse_folder()
-                self.get_images()
-                self._cached_text = {}
+                self.image_list = None
+                self.loci_list = None
+                self.facts_list = None
+                self.mnemonics_list = None
+                self.image_files_list = None
+
+
                 pygame.font.init()
-                self.font = pygame.font.Font(None, 26)
+                self.font = pygame.font.Font(None, 72)
+                self.get_from_palace()
+
+
+        def get_from_palace(self):
+                dreddPalace = get_palace.Memory_Palace(0)
+                pdb.set_trace()
+                self.loci_list = dreddPalace.loci
+                self.facts_list = dreddPalace.facts
+                self.mnemonics_list = dreddPalace.mnemonics
+                self.image_files_list = dreddPalace.image_files
+
 
         def sort_filenames(self, l):
                 """ Sorts the given iterable in the way that is expected.
@@ -148,13 +176,8 @@ class Data:
                 logging.info('%s folder selected', self.folder)
                 root.destroy()
 
-        def get_images(self):
-                for f in self.sort_filenames(os.listdir(self.folder)):
-                        if fnmatch.fnmatch(f, '*.png'):
-                                self.image_list.append(pygame.image.load(self.folder + '/' + f))
-                                logging.info('adding %s to self.image_list', self.folder + '/' + f)
-                logging.warning('image list is: %s', self.image_list)
-
+                
+                    
 class Viewer:
         def __init__(self):
                 self.x = 10 

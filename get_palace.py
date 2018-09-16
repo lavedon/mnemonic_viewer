@@ -1,4 +1,3 @@
-import pdb
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -19,7 +18,6 @@ def get_palace(sheet_select):
     # Open passed through sheet name
 
     wk_book = client.open_by_key('1ynNFt25lPaMsjj3RPk0LH6hdia1qRWxX1rdNPIzp1f0')
-    pdb.set_trace()
     sheets = wk_book.worksheets() 
     palace = sheets[sheet_select]
     return palace
