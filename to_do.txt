@@ -1,14 +1,14 @@
->>>>Scale Images with window resize
 
-Make buttons flip through images
-    if list out of bounds don't load.
-
-Make text boxes
-Make text boxes appear/reappear with button presses
-
-Module to read google sheets
-Move to github
 
 *Select button opens new folder
 * Start button change image fills entire screen or study widgets
 
+* On stat-up display select menu
+* Keyboard short cut pops up go to Loci menu
+
+>>>>Scale Images with window resize
+***call on_start_up function which opens the select menu. 
+    --Have a Boolean in App hold if the program is starting up for the first time.
+    --Select menu turns sheet Red
+    --Bool for select menu on or off
+        -- if select menu greater than number of items in menu --> turn menu off
