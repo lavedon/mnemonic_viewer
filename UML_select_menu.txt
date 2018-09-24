@@ -1,0 +1,35 @@
+@startuml
+autonumber
+actor User #red
+participant Data
+entity get_images
+User -> Data: Presses Select Button
+Data -> Data: select_which += 1
+User -> Data: Presses Start Button, and select menu open
+
+alt select_menu_open = True
+    Data -> Data: select_menu_open = False
+    Data -> Data: get_from_palace()
+    Data -> Data: start_up = False
+    Data -> Data: get_images()
+    end
+Data -> get_images: Get image surfaces
+note right of get_images #aqua
+         Get All Loci
+         Get Image Files List <b>NOT rendered</b>
+         Get And Render Fact List
+         Get And Render Mnemonics
+end note
+get_images --> Data: <i>When are <u>images</u> rendered?</i>
+|||
+note left of Data #red
+        Find when images are rendered
+end note
+note right of get_images #green
+        self.image_list_surf.append(pygame.image.load(filename))
+end note
+get_images -> get_images: image_list_surf.append()
+note over get_images #red
+        is self.start_up: pass a problem?
+end note
+@enduml

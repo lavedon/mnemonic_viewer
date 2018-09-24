@@ -62,18 +62,30 @@ class App:
                             self.image_count += 1
                         elif self.joystick.get_button(6):
                             logging.info('Controller button 6 pressed.')
+                            # Besides start-up zero is never reached.
+                            # Select Menu closes.  Reset to 0. theData.select_which = 0.  
+                            # See line 80
+                            # When select button pressed , 1 is added instantly
+                            # Before the menu can even display.
+                            # Skipping the first menu item before the menu opens.
                             theData.select_which += 1
+                            # Always open the select menu when select is pressed
                             if theData.select_menu_open == False:
                                 theData.select_menu_open = True
-                            if theData.select_which > len(theData.sheet_list):
-                                theData.select_which = 0
+                            if theData.select_which >= len(theData.sheet_list):
+                                theData.select_which = 0 
+                                logging.debug("Start On? %s", theData.start_up)
+                                logging.debug("select_which is %s", theData.select_which)
                                 theData.select_menu_open = False
                         elif self.joystick.get_button(7):
                             logging.info('Controller button 7 pressed.')
                             if theData.select_menu_open:
                                 theData.select_menu_open = False
+                                logging.debug("Call get from palace()")
                                 theData.get_from_palace() 
+                                logging.debug("Turn off Start_up %", theData.start_up)
                                 theData.start_up = False
+                                logging.debug("Call get_images")
                                 theData.get_images()
 
         def on_render(self):
@@ -114,6 +126,7 @@ class App:
                                 self.on_event(event)
                         self.on_render()
                 self.on_cleanup()
+
         
 
 class Data:
@@ -139,7 +152,7 @@ class Data:
                 self.sheet_list = []
                 #  the local location of folders with various palace images
                 self.folder_locations = ['C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\Dredd',
-                        'C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces', 
+                        'C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\MATRIX', 
                         'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary']
                
 
@@ -161,6 +174,7 @@ class Data:
 
             # Render all the possible sheets in a box
             line_position = 10
+            # Highlight currently select menu red
             for count, line in enumerate(self.sheet_list): 
                 if count == self.select_which:
                     rendered_palace = self.font_1.render(line.title, False, (255, 0, 0))
@@ -179,25 +193,28 @@ class Data:
                 self.image_files_list = currentPalace.image_files
 
         def get_images(self):
-            ###  @TODO We want get images to be called on start up only after the select menu ###
             if self.start_up:
                 pass
-            elif self.start_up == False:
+            else:
+                logging.debug("Loading Rendered Loci for sheet # %s", theData.select_which)
                 for loci in self.loci_list:
                     self.loci_list_surf.append(self.font_1.render(loci, False, (0, 255, 0)))
+                logging.debug("Loading Rendered images for sheet # %s", theData.select_which)
                 for image in self.image_files_list:
-                    filename = os.path.join(self.folder_locations[0], image)
+                    filename = os.path.join(self.folder_locations[self.select_which], image)
                     self.image_list_surf.append(pygame.image.load(filename))
+                logging.debug("Loading rendered facts list for sheet # %s", theData.select_which)
                 for fact in self.facts_list:
                     self.image_rect = self.image_list_surf[0].get_rect()
                     self.image_rect.width = self.image_rect.width - 200
                     self.image_rect.height = self.image_rect.height - 400
                     self.facts_list_surf.append(textrect.render_textrect(fact, self.font_2, self.image_rect, (255, 255, 255), (0, 0, 0), 1))
 
+                logging.debug("Loading rendered mnemonics list for sheet # %s", theData.select_which)
                 for mnemonic in self.mnemonics_list:
                     # self.mnemonics_list_surf.append(self.font_2.render(mnemonic, False, (139, 0, 139))) 
                     self.mnemonics_list_surf.append(textrect.render_textrect(mnemonic, self.font_2, self.image_rect, (255, 255, 255), (0, 0, 0), 0))
-          
+
 class Viewer:
     def __init__(self):
         self.caption = "Memory Palace 3000"

@@ -1,0 +1,7 @@
+@startuml
+class Dummy {
+{field} A field (despite paranthesis)
+{method} Some method
+}
+
+@enduml

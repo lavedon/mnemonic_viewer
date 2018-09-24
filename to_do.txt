@@ -1,4 +1,5 @@
-
+*PICKLE a JSON with the folder paths? or get from sheet?
+*TKinter select folder paths?
 
 *Select button opens new folder
 * Start button change image fills entire screen or study widgets
@@ -12,3 +13,9 @@
     --Select menu turns sheet Red
     --Bool for select menu on or off
         -- if select menu greater than number of items in menu --> turn menu off
+
+**Make a loading screen with 
+
+
+**Stop it from crashing the computer on very large text blocks.
+    --Have it render CUT in red at the end of the line.

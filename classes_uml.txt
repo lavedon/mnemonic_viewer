@@ -1,0 +1,47 @@
+@startuml
+class App {
+-running: bool
++image_count: int
++clock: int
+
++text_surface1_flag: bool
++text_surface2_flag: bool
++text_surface3_flag: bool
++image_flag: bool
++palaces[]
+
+-__init__()
+#on_init()
++on_event()
++on_render()
++on_cleanup()
++on_execute() 
+}
+
+Class Data {
++select_which: int
++start_up: bool
++folder:
++image_list[]
++image_list_surf[]
++loci_list[]
++loci_list_surf[]
++facts_list[]
++facts_list_surf[]
++mnemonics_list[]
++mnemonics_list_surf[]
++image_files_list[]
++image_rect:
+
+-__init__()
++select_menu()
++get_from_palace()
++get_images()
+}
+
+Class Viewer {
++caption: str
+
+-__init__()
+}
+@enduml
