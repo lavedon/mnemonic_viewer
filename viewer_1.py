@@ -67,11 +67,13 @@ class App:
                             # See line 80
                             # When select button pressed , 1 is added instantly
                             # Before the menu can even display.
-                            # Skipping the first menu item before the menu opens.
+                            # infoping the first menu item before the menu opens.
                             theData.select_which += 1
                             # Always open the select menu when select is pressed
                             if theData.select_menu_open == False:
                                 theData.select_menu_open = True
+                            logging.debug("Check if select_which > len(sheet_list")
+                            logging.debug("select_which = %s len(sheet_list) = %s", theData.select_which, len(theData.sheet_list))
                             if theData.select_which >= len(theData.sheet_list):
                                 theData.select_which = 0 
                                 logging.debug("Start On? %s", theData.start_up)
@@ -83,10 +85,10 @@ class App:
                                 theData.select_menu_open = False
                                 logging.debug("Call get from palace()")
                                 theData.get_from_palace() 
-                                logging.debug("Turn off Start_up %", theData.start_up)
-                                theData.start_up = False
                                 logging.debug("Call get_images")
                                 theData.get_images()
+                                logging.debug("Turn off Start_up %s", theData.start_up)
+                                theData.start_up = False
 
         def on_render(self):
                 black = 0, 0, 0
@@ -185,6 +187,7 @@ class Data:
             return surface
 
         def get_from_palace(self):
+                logging.debug("Current palace will be set to %s", self.select_which)
                 currentPalace = get_palace.Memory_Palace(self.select_which)
                 self.sheet_list = currentPalace.sheets
                 self.loci_list = currentPalace.loci
