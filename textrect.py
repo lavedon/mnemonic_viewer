@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+import pdb
 
 class TextRectException:
     def __init__(self, message = None):
@@ -42,9 +43,9 @@ def render_textrect(string, font, rect, text_color, background_color, justificat
         if font.size(requested_line)[0] > rect.width:
             words = requested_line.split(' ')
             # if any of our words are too long to fit, return.
-            for word in words:
-                if font.size(word)[0] >= rect.width:
-                    raise TextRectException("The word " + word + " is too long to fit in the rect passed.")
+#            for word in words:
+#                if font.size(word)[0] >= rect.width:
+#                    raise TextRectException("The word " + word + " is too long to fit in the rect passed.")
             # Start a new line
             accumulated_line = ""
             for word in words:
@@ -66,8 +67,9 @@ def render_textrect(string, font, rect, text_color, background_color, justificat
 
     accumulated_height = 0
     for line in final_lines:
-        if accumulated_height + font.size(line)[1] >= rect.height:
-            raise TextRectException("Once word-wrapped, the text string was too tall to fit in the rect.")
+        # Removed error if text too tall.
+#        if accumulated_height + font.size(line)[1] >= rect.height:
+#            raise TextRectException("Once word-wrapped, the text string was too tall to fit in the rect.")
         if line != "":
             tempsurface = font.render(line, 1, text_color)
             if justification == 0:

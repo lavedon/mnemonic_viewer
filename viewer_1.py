@@ -31,7 +31,7 @@ class App:
                 self.joystick.init()
                 logging.info('joystick initialized')
                 logging.info('pygame initialized')
-                self.display_surf = pygame.display.set_mode((1800, 800), HWSURFACE | DOUBLEBUF | RESIZABLE)
+                self.display_surf = pygame.display.set_mode((2000, 1200), HWSURFACE | DOUBLEBUF | RESIZABLE)
                 self.display_caption = pygame.display.set_caption('Space is the Place')
                 self._running = True
                 self.clock = pygame.time.Clock()
@@ -153,7 +153,8 @@ class Data:
                 #  the local location of folders with various palace images
                 self.folder_locations = ['C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\Dredd',
                         'C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\MATRIX', 
-                        'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary']
+                        'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary', 
+                        'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Sandman']
                
 
                 pygame.init()
@@ -169,7 +170,7 @@ class Data:
         def select_menu(self):
 
             self.select_menu_open = True 
-            surface = pygame.Surface((500, 500))
+            surface = pygame.Surface((1000, 800))
             surface.fill((255, 255, 255))
 
             # Render all the possible sheets in a box
