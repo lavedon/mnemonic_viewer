@@ -151,10 +151,11 @@ class Data:
 
                 self.sheet_list = []
                 #  the local location of folders with various palace images
-                self.folder_locations = ['C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\Dredd',
-                        'C:\\Users\\Luke\\Desktop\\Memory Palace\\Palaces\\MATRIX', 
-                        'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary', 
-                        'C:\\Users\\Luke\\Desktop\Memory Palace\\Palaces\\Sandman']
+                self.folder_locations = [
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Dredd',
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\MATRIX',
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary', 
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Sandman']
                
 
                 pygame.init()
