@@ -27,9 +27,6 @@ class App:
 
         def on_init(self):
                 pygame.init()
-                self.joystick = pygame.joystick.Joystick(0)
-                self.joystick.init()
-                logging.info('joystick initialized')
                 logging.info('pygame initialized')
                 self.display_surf = pygame.display.set_mode((2000, 1200), HWSURFACE | DOUBLEBUF | RESIZABLE)
                 self.display_caption = pygame.display.set_caption('Space is the Place')
@@ -40,27 +37,27 @@ class App:
                 if event.type == pygame.QUIT:
                         self._running = False
                      # Joystick Input
-                if event.type == pygame.JOYBUTTONDOWN:
+                if event.type == pygame.KEYDOWN:
                         logging.info('a controller button was pressed')
-                        if self.joystick.get_button(0):
+                        if event.key == pygame.K_a:
                             logging.info('Controller button 0 pressed')
                             self.text_surface1_flag = not self.text_surface1_flag
-                        elif self.joystick.get_button(1):
+                        elif event.key == pygame.K_s:
                             logging.info('Controller button 1 pressed')
                             self.text_surface2_flag = not self.text_surface2_flag
-                        elif self.joystick.get_button(2):
+                        elif event.key == pygame.K_d:
                             logging.info('Controller button 2 pressed' )
                             self.text_surface3_flag = not self.text_surface3_flag
-                        elif self.joystick.get_button(3):
+                        elif event.key == pygame.K_f:
                             logging.info('Controller button 3 pressed')
                             self.image_flag = not self.image_flag
-                        elif self.joystick.get_button(4):
+                        elif event.key == pygame.K_h:
                             logging.info('Controller button 4 pressed')
                             self.image_count -= 1 
-                        elif self.joystick.get_button(5):
+                        elif event.key == pygame.K_l:
                             logging.info('Controller button 5 pressed.')
                             self.image_count += 1
-                        elif self.joystick.get_button(6):
+                        elif event.key == pygame.K_SPACE:
                             logging.info('Controller button 6 pressed.')
                             # Besides start-up zero is never reached.
                             # Select Menu closes.  Reset to 0. theData.select_which = 0.  
@@ -77,7 +74,7 @@ class App:
                                 logging.debug("Start On? %s", theData.start_up)
                                 logging.debug("select_which is %s", theData.select_which)
                                 theData.select_menu_open = False
-                        elif self.joystick.get_button(7):
+                        elif event.key == pygame.K_RETURN:
                             logging.info('Controller button 7 pressed.')
                             if theData.select_menu_open:
                                 theData.select_menu_open = False
@@ -155,7 +152,9 @@ class Data:
                         'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Dredd',
                         'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\MATRIX',
                         'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Computer\\Star Trek 25th Anniversary', 
-                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Sandman']
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\Sandman',
+                        'C:\\Users\\Luke\\Documents\\Memory Palace\\Palaces\\RegEx']
+
                
 
                 pygame.init()
