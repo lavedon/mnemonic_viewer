@@ -210,12 +210,12 @@ class Data:
                     self.image_rect = self.image_list_surf[0].get_rect()
                     self.image_rect.width = self.image_rect.width - 200
                     self.image_rect.height = self.image_rect.height - 400
-                    self.facts_list_surf.append(textrect.render_textrect(fact, self.font_2, self.image_rect, (255, 255, 255), (0, 0, 0), 1))
+                    self.facts_list_surf.append(textrect.render_textrect(fact, self.font_2, self.image_rect, (128, 0, 128), (0, 0, 0), 1))
 
                 logging.debug("Loading rendered mnemonics list for sheet # %s", theData.select_which)
                 for mnemonic in self.mnemonics_list:
                     # self.mnemonics_list_surf.append(self.font_2.render(mnemonic, False, (139, 0, 139))) 
-                    self.mnemonics_list_surf.append(textrect.render_textrect(mnemonic, self.font_2, self.image_rect, (255, 255, 255), (0, 0, 0), 0))
+                    self.mnemonics_list_surf.append(textrect.render_textrect(mnemonic, self.font_2, self.image_rect, (128, 0, 128), (0, 0, 0), 0))
 
 class Viewer:
     def __init__(self):
